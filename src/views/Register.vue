@@ -156,9 +156,6 @@ export default {
 
 .options
   padding-left: 30px
-.inline-group
-  b-form-radio
-    background: white
 
 .btn, .btn:hover, .btn:active, .btn:focus
   background: #e2b963
