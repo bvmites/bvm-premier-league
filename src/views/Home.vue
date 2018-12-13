@@ -1,15 +1,30 @@
 <template>
   <div id="home">
-    <cardComponent></cardComponent>
+    <vue-glide :perView=1 type="carousel">
+      <vue-glide-slide>
+        <card-component></card-component>
+      </vue-glide-slide>
+      <vue-glide-slide>
+        <card-component></card-component>
+      </vue-glide-slide>
+      <vue-glide-slide>
+        <card-component></card-component>
+      </vue-glide-slide>
+    </vue-glide>
+
   </div>
 </template>
 
 <script>
 import cardComponent from '../components/cardComponent'
+import { Glide, GlideSlide } from 'vue-glide-js'
+
 export default {
   name: 'Home',
   components: {
-    cardComponent
+    cardComponent,
+    [Glide.name]: Glide,
+    [GlideSlide.name]: GlideSlide
   },
   data() {
     return {
@@ -25,8 +40,5 @@ export default {
 
 <style lang="sass" scoped>
 #home
-  position: absolute
-  width: 100%
-  min-height: 100%
   background: -webkit-linear-gradient(-45deg, #e2b963, #6819ad)
 </style>
