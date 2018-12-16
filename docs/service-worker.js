@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fc52dac8dbaae9eb27ab164d7b645526.js"
+  "/precache-manifest.f5e1740cb82e8f871bfd2bace737f41c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bvm-premier-league"});

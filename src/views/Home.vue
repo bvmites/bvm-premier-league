@@ -1,5 +1,5 @@
 <template>
-  <div id="home" @keyup.esc="console.log('keypressed')">
+  <div id="home">
 
     <!--Players-->
     <div class="main" v-if="players.length > 0">

@@ -52,6 +52,7 @@
                 <div class="options">
                   <b-form-radio value="right">Right</b-form-radio>
                   <b-form-radio value="left">Left</b-form-radio>
+                  <b-form-radio value="none">None</b-form-radio>
                 </div>
               </b-form-radio-group>
             </b-form-row>
@@ -65,6 +66,7 @@
                 <div class="options">
                   <b-form-radio value="right">Right</b-form-radio>
                   <b-form-radio value="left">Left</b-form-radio>
+                  <b-form-radio value="none">None</b-form-radio>
                 </div>
               </b-form-radio-group>
             </b-form-row>
@@ -80,6 +82,7 @@
                   <b-form-radio value="medium">Medium</b-form-radio>
                   <b-form-radio value="off-spin">off Spin</b-form-radio>
                   <b-form-radio value="leg-spin">Leg Spin</b-form-radio>
+                  <b-form-radio value="none">None</b-form-radio>
                 </div>
               </b-form-radio-group>
             </b-form-row>
@@ -140,7 +143,8 @@ export default {
         {text: "select", value: null},
         {text: "Gold", value: 'gold'},
         {text: "Silver", value: 'silver'},
-        {text: "Bronze", value: 'bronze'}
+        {text: "Bronze", value: 'bronze'},
+        {text: "None", value: 'none'}
       ],
       departmentOptions: [
         {text: "Select", value: null},

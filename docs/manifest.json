@@ -1,6 +1,6 @@
 {
-  "name": "bvm-premier-league",
-  "short_name": "bvm-premier-league",
+  "name": "BVM Premier League",
+  "short_name": "BPL",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
