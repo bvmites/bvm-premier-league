@@ -7,61 +7,257 @@ export default new Vuex.Store({
   state: {
     teams: [
       {
-        name: "bvm_blasters",
+        name: "BVM Blasters",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_blaster.png",
         balance: 10000,
-        players: []
+        players: [
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          },
+          {
+            "id": "dp1",
+            "name": "Dummy player6",
+            "collegeId": "d_player6",
+            "department": "department6",
+            "year": "year6",
+            "contactNo": "number6",
+            "batsman": "batsmanType",
+            "bowler": "RIGHT/LEFT",
+            "bowlerType": "bowlerType",
+            "wicketKeeper": "YES/NO",
+            "allRounder": "YES/NO"
+          }
+        ]
       },
       {
-        name: "bvm_gs_11",
+        name: "BVM GS 11",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_gs_11.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_knight_riders",
+        name: "BVM Knight Riders",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_knight_riders.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_legends",
+        name: "BVM Legends",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_legends.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_pakhtoon",
+        name: "BVM Pakhtoon",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_pakhtoon.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_stars",
+        name: "BVM Stars",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_stars.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_strikers",
+        name: "BVM Strikers",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_strikers.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_super_kings",
+        name: "BVM Super Kings",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_super_kings.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_thunder",
+        name: "BVM Thunder",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_thunder.png",
         balance: 10000,
         players: []
       },
       {
-        name: "bvm_tigers",
+        name: "BVM Tigers",
         url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/bvm_tigers.png",
         balance: 10000,
         players: []

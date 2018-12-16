@@ -5,6 +5,32 @@
   background: -webkit-linear-gradient(-45deg, #e2b963, #6819ad)
   transition: all 0.3s ease-in-out
 
+.typing
+  position: relative
+  transform: translateY(400%)
+  font-size: 32px
+  width: 80%
+  color: white
+  margin: 0 auto
+  text-align: center
+  white-space: nowrap
+  animation: typewriter 5s forwards, blink 0.4s both infinite
+  border-right: 1px solid #fff
+  overflow: hidden
+@keyframes typewriter
+  0%
+    width: 0
+
+  100%
+    width: 75%
+
+@keyframes blink
+  0%
+    border-right: 1px solid #fff
+
+  100%
+    border-right: 1px solid transparent
+
 .prev, .next
   position: absolute
   margin: 10px
@@ -41,17 +67,27 @@
 .team-dashboard
   position: absolute
   bottom: 0
-  clip-path: polygon(6% 0%, 100% 0%, 96% 100%, 0% 100%)
+  transform: skew(-30deg)
   left: 2%
   height: 130px
   width: 95%
-  background: rgba(255, 246, 249, 0.27)
   text-align: center
   transition: all 0.3s ease-in-out
+  .dashboard
+    position: absolute
+    bottom: 0
+    height: 80px
+    width: 93%
+    left: 5%
+    border-radius: 10px
+    z-index: -1
+    background: rgba(255, 246, 249, 0.27)
   .team-icon
     padding: 10px
     display: inline-block
+    position: relative
     margin: 5px
+    transform: skew(30deg)
     .oval
       position: absolute
       height: 50px
@@ -63,8 +99,10 @@
     .teamImg
       height: 100px
       transition: all 0.3s ease-in-out
+      //transform: skew(30deg)
       &:hover
-        transform: scale(1.2)
+        transform: scale(1.2) translateY(-20px)
+        z-index: 2
     .players
       position: absolute
       font-weight: bolder

@@ -1,8 +1,8 @@
 <template>
-  <div id="home">
+  <div id="home" @keyup.esc="console.log('keypressed')">
 
     <!--Players-->
-    <!--<div class="main" v-if="players.length > 0">
+    <div class="main" v-if="players.length > 0">
       <transition name="slide">
         <cardComponent v-for="(player,playerIndex) in players"
                        :player="player"
@@ -12,19 +12,21 @@
       </transition>
       <button class="prev" @click="prevPlayer"><</button>
       <button class="next" @click="nextPlayer">></button>
-    </div>-->
+    </div>
+
+    <div class="typing" v-if="players.length === 0">No more players to bid. Click on the icons present in dock to see team details.</div>
 
     <!--Team Details-->
 
     <transition name="openUp">
-      <teamComponent v-if="show" @closeTeam="show = false"></teamComponent>
+      <teamComponent v-if="show" @closeTeam="show = false" :team="teamDetails"></teamComponent>
     </transition>
 
 
     <!--Team Dashboard-->
     <div class="team-dashboard">
       <div class="team-icon" v-for="team in teams">
-        <img :src="team.url" alt="teamImg" class="teamImg" @click="show = !show">
+        <img :src="team.url" alt="teamImg" class="teamImg" @click="showTeamDetails(team)">
         <span class="players">{{team.players.length}}</span>
         <div class="oval"></div>
       </div>
@@ -46,11 +48,12 @@ export default {
   },
   data() {
     return {
-      players: playersJSON.players,
+      players: [],
       index: 0,
       flag: false,
       teams: this.$store.state.teams,
-      show: false
+      show: false,
+      teamDetails: null
     }
   },
   methods: {
@@ -77,6 +80,10 @@ export default {
     },
     setFlag() {
       this.flag = true
+    },
+    showTeamDetails(team) {
+      this.show = !this.show
+      this.teamDetails = team
     }
   }
 }
