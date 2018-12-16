@@ -114,12 +114,9 @@
           <!--Player Type-->
           <b-form-group>
             <b-form-row>
-              <span class="label">Gold</span>
+              <span class="label">Player Category</span>
               <div class="options">
-                <b-form-radio-group v-model="player.category.gold">
-                  <b-form-radio :value="true">Yes</b-form-radio>
-                  <b-form-radio :value="false">No</b-form-radio>
-                </b-form-radio-group>
+                <b-form-select :options="playerCatOption" v-model="player.category.playerType"></b-form-select>
               </div>
             </b-form-row>
           </b-form-group>
@@ -139,6 +136,12 @@ export default {
   data() {
     return {
       image:null,
+      playerCatOption: [
+        {text: "select", value: null},
+        {text: "Gold", value: 'gold'},
+        {text: "Silver", value: 'silver'},
+        {text: "Bronze", value: 'bronze'}
+      ],
       departmentOptions: [
         {text: "Select", value: null},
         {text: "Civil", value: "civil"},
@@ -165,7 +168,7 @@ export default {
         phone: null,
         photoID: null,
         category: {
-          gold: false,
+          playerType: null,
           batHand: null,
           bolHand: null,
           bolType: null,
