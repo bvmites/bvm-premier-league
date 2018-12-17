@@ -1,3 +1,4 @@
+<!--suppress ALL -->
 <template>
   <div id="home">
 
@@ -6,7 +7,7 @@
       <transition name="slide">
         <cardComponent v-for="(player,playerIndex) in players"
                        :player="player"
-                       :key="player.id"
+                       :key="player._id"
                        v-if="playerIndex === index"
                        @setFlag="setFlag"></cardComponent>
       </transition>
@@ -14,6 +15,10 @@
       <button class="next" @click="nextPlayer">></button>
     </div>
 
+    <!--Restore Button-->
+    <button class="restore" @click="getState"></button>
+
+    <!--No Player Info-->
     <div class="typing" v-if="players.length === 0">No more players to bid. Click on the icons present in dock to see team details.</div>
 
     <!--Team Details-->
@@ -37,9 +42,8 @@
 
 <script>
 import cardComponent from '../components/cardComponent'
-import playersJSON from '../player'
 import teamComponent from '../components/teamComponent'
-
+import { mapState } from 'vuex'
 export default {
   name: 'Home',
   components: {
@@ -48,24 +52,28 @@ export default {
   },
   data() {
     return {
-      players: [],
       index: 0,
       flag: false,
-      teams: this.$store.state.teams,
       show: false,
       teamDetails: null
     }
   },
+  computed: {
+    ...mapState({
+      players: state => state.players,
+      teams: state => state.teams
+    })
+  },
   methods: {
     prevPlayer() {
-      const last = this.players.pop()
-      this.players = [last].concat(this.players)
-
+      // const last = this.players.pop()
+      // this.players = [last].concat(this.players)
+      // this.$store.commit('prevPlayer')
+      this.$store.commit('prevPlayer')
     },
     nextPlayer() {
       if(this.flag) {
-        this.players.shift()
-        console.log(this.players)
+        this.$store.commit('removePlayer')
         this.flag = false
         let imgs = document.querySelectorAll(".team")
         imgs.forEach(img => {
@@ -74,9 +82,13 @@ export default {
         document.querySelector(".center-animate").style.display = 'none'
       }
       else{
-          const first = this.players.shift()
-          this.players = this.players.concat(first)
+          // const first = this.players.shift()
+          // this.players = this.players.concat(first)
+          // this.$store.commit('updatePlayer', this.players)
+          this.$store.commit('nextPlayer')
       }
+      console.log(this.$store.state)
+      this.$http.post("https://bvm-cricket.herokuapp.com/store", this.$store.state)
     },
     setFlag() {
       this.flag = true
@@ -84,6 +96,11 @@ export default {
     showTeamDetails(team) {
       this.show = !this.show
       this.teamDetails = team
+    },
+    getState() {
+      this.$http.get("https://bvm-cricket.herokuapp.com/store").then(function(response) {
+        this.$store.commit('updateState', response.body[0])
+      })
     }
   }
 }

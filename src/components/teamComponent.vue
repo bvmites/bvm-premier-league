@@ -5,7 +5,9 @@
     <b-row>
       <b-col v-for="player in team.players">
         <div class="player-card mx-auto" >
-          {{player.name}}
+          <button class="del" @click="deletePlayer(player)">X</button>
+          <div class="name">{{player.playerObj.name}}</div>
+          <div class="amount"><img src="../assets/coins.svg" alt="coins" class="wallet">{{player.bidAmount}}</div>
         </div>
       </b-col>
     </b-row>
@@ -30,7 +32,9 @@ export default {
     }
   },
   methods: {
-
+    deletePlayer(player) {
+      this.$store.commit('removeTeamPlayer', {player, team: this.team})
+    }
   }
 }
 </script>
@@ -38,10 +42,10 @@ export default {
 <style lang="sass" scoped>
 #team
   position: absolute
-  background: rgba(255,255,255,0.8)
+  background: rgba(255,255,255,0.9)
   top: 5%
   left: 10%
-  height: 60%
+  height: 70%
   width: 80%
   border-radius: 10px
   box-shadow: 5px 5px 5px #333
@@ -57,13 +61,24 @@ export default {
 .heading
   color: black
 
+.del
+  float: right
+  border-radius: 50%
+  outline: none
+  border: none
+  background: #ff5332
+  color: white
+  cursor: pointer
+
 .player-card
-  background: white
+  background: #005cbf
   padding: 10px
   margin-top: 40px
   margin-left: 10px
   margin-right: 10px
   width: 200px
+  color: white
+  border-radius: 10px
   box-shadow: 3px 3px 3px #333
   text-align: center
   font-weight: bolder
@@ -74,8 +89,9 @@ export default {
   bottom: 2%
   font-size: 24px
   font-weight: bolder
-  .wallet
-    height: 24px
-    margin: 10px
+
+.wallet
+  height: 24px
+  margin: 10px
 
 </style>
