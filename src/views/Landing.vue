@@ -1,0 +1,91 @@
+<template>
+  <transition name="slide-up">
+    <div id="landing">
+      <div class="welcome-text">
+        <div class="line">Welcome To</div>
+        <div class="line">BVM Premier League</div>
+        <div class="line">Auction</div>
+        <div class="line">Developed By</div>
+        <div class="line">Team Developer (BVM)</div>
+      </div>
+      <button class="pullUp" @click="$router.push('/home')">V</button>
+    </div>
+  </transition>
+</template>
+
+<script>
+
+export default {
+  name: 'LandingView'
+}
+</script>
+
+<style lang="sass" scoped>
+#landing
+  background: -webkit-linear-gradient(-45deg, #e2b963, #6819ad)
+  position: absolute
+  font-weight: bolder
+  height: 100%
+  width: 100%
+
+.welcome-text
+  position: absolute
+  left: 50%
+  top: 50%
+  transform: translate(-50%, -50%)
+
+.line
+  color: white
+  text-align: center
+  text-transform: uppercase
+
+.line:nth-child(1)
+  font-size: 80px
+  letter-spacing: 20px
+  margin-left: 15px
+
+.line:nth-child(2)
+  font-size: 65px
+  margin: 10px
+  border-top: 2px solid #fff
+  border-bottom: 2px solid #fff
+
+.line:nth-child(3)
+  font-size: 80px
+  margin-left: 40px
+  letter-spacing: 55px
+
+.line:nth-child(4), .line:nth-child(5)
+  text-align: center
+  font-weight: normal
+
+.pullUp
+  background: transparent
+  position: absolute
+  bottom: 5%
+  border: 0
+  outline: 0
+  color: white
+  font-weight: bolder
+  left: 50%
+  font-size: 30px
+  cursor: pointer
+  animation: dribble 0.6s alternate infinite ease-in
+
+@keyframes dribble
+  0%
+    transform: translateY(-20px)
+  100%
+    transform: translateY(0)
+
+.slide-up-leave-active
+  animation: slide-up 0.5s ease-in
+
+@keyframes slide-up
+  0%
+    transform: translateY(0)
+    opacity: 1
+  100%
+    transform: translateY(-100%)
+    opacity: 0
+</style>
