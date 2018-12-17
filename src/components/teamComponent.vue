@@ -7,13 +7,13 @@
         <div class="player-card mx-auto" >
           <button class="del" @click="deletePlayer(player)">X</button>
           <div class="name">{{player.playerObj.name}}</div>
-          <div class="amount"><img src="../assets/coins.svg" alt="coins" class="wallet">{{player.bidAmount}}</div>
+          <div class="amount"><img :src="baseUrl + 'coins.png'" alt="coins" class="wallet">{{player.bidAmount}}</div>
         </div>
       </b-col>
     </b-row>
     <button class="close" @click="$emit('closeTeam')">X</button>
     <div class="bal">
-      <img src="../assets/coins.svg" alt="wallet" class="wallet">
+      <img :src="baseUrl + 'coins.png'" alt="wallet" class="wallet">
       <span>{{team.balance}}</span>
     </div>
   </div>
@@ -28,7 +28,7 @@ export default {
   ],
   data() {
     return {
-
+      baseUrl: 'https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/',
     }
   },
   methods: {

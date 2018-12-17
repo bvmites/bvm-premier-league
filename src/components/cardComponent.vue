@@ -40,7 +40,7 @@
           <div class="team">
             <img :src="team.url" alt="TeamImg" class="teamImg mx-auto d-block" @click="showModal(team.name, team.url, $event)">
             <div class="bal">
-              <img src="../assets/coins.svg" alt="wallet" class="wallet">
+              <img :src="baseUrl + 'coins.png'" alt="wallet" class="wallet">
               <span>{{team.balance}}</span>
             </div>
           </div>
@@ -77,7 +77,8 @@ export default {
       el: null,
       gold: false,
       silver: false,
-      bronze: false
+      bronze: false,
+      baseUrl: 'https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/'
     }
   },
   computed: {
