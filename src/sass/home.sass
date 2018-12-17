@@ -5,6 +5,12 @@
   background: -webkit-linear-gradient(-45deg, #e2b963, #6819ad)
   transition: all 0.3s ease-in-out
 
+.smallWindow
+  font-size: 3em
+  text-align: center
+  color: white
+  margin-top: 20%
+
 .typing
   position: relative
   transform: translateY(400%)
@@ -17,6 +23,7 @@
   animation: typewriter 5s forwards, blink 0.4s both infinite
   border-right: 1px solid #fff
   overflow: hidden
+
 @keyframes typewriter
   0%
     width: 0
@@ -99,7 +106,6 @@
     .teamImg
       height: 100px
       transition: all 0.3s ease-in-out
-      //transform: skew(30deg)
       &:hover
         transform: scale(1.2) translateY(-20px)
         z-index: 2
@@ -120,6 +126,7 @@
 
 .openUp-leave-active
   animation: openUp 0.5s reverse ease-in-out
+
 @keyframes openUp
   0%
     transform: translate(0, 100%) scale(0.1)

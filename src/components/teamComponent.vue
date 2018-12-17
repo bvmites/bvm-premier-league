@@ -40,58 +40,6 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-#team
-  position: absolute
-  background: rgba(255,255,255,0.9)
-  top: 5%
-  left: 10%
-  height: 70%
-  width: 80%
-  border-radius: 10px
-  box-shadow: 5px 5px 5px #333
-  transition: all 0.3s linear
-
-.close
-  position: absolute
-  background: transparent
-  font-weight: bolder
-  top: 1%
-  right: 1%
-
-.heading
-  color: black
-
-.del
-  float: right
-  border-radius: 50%
-  outline: none
-  border: none
-  background: #ff5332
-  color: white
-  cursor: pointer
-
-.player-card
-  background: #005cbf
-  padding: 10px
-  margin-top: 40px
-  margin-left: 10px
-  margin-right: 10px
-  width: 200px
-  color: white
-  border-radius: 10px
-  box-shadow: 3px 3px 3px #333
-  text-align: center
-  font-weight: bolder
-
-.bal
-  position: absolute
-  right: 5%
-  bottom: 2%
-  font-size: 24px
-  font-weight: bolder
-
-.wallet
-  height: 24px
-  margin: 10px
+@import '../sass/teamComponent'
 
 </style>
