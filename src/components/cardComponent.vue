@@ -4,7 +4,7 @@
 
     <!--player card-->
     <div :class="{'card': true, 'mx-auto': true, 'gold': gold, 'silver': silver,  'bronze': bronze}">
-      <div class="img"><img src="../assets/logo.png" alt="player-Image" class="img-fluid mx-auto d-block"></div>
+      <div class="img"><img :src="baseUrl + 'logo.png'" alt="player-Image" class="img-fluid mx-auto d-block"></div>
       <div class="content">
         <b-row>
           <b-col><span class="label">Name: </span></b-col>
