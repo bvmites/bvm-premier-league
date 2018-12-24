@@ -4,7 +4,9 @@ A website for monitoring the bidding of players in BVM premier league.
 #### link for the website : [BVM premier League](https://bvmites.github.io/bvm-premier-league/#/)
 
 ## Screenshots
-
+![](https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/BPL.JPG)
+![](https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/BPL1.JPG)
+![](https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/BPL2.JPG)
 ## Dependencies
 1. bootstrap-vue
 2. vue-resource
@@ -22,6 +24,8 @@ A website for monitoring the bidding of players in BVM premier league.
   * add the player back to original player list
   * Remove the player from team list
   * add the player's bidding amount into the balance of team 
+6. Send the state to server whenever the player is added into a team
+7. Restore the state on a button press
 
 ## Components
 1. Card Component - A reusable component for displaying the stats of the player
