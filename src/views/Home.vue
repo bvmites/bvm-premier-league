@@ -48,21 +48,21 @@
 
 <script>
 
-import cardComponent from '../components/cardComponent'
-import teamComponent from '../components/teamComponent'
-import { mapState } from 'vuex'
+  import cardComponent from '../components/cardComponent'
+  import teamComponent from '../components/teamComponent'
+  import {mapState} from 'vuex'
 
-export default {
-  name: 'Home',
-  components: {
-    cardComponent,
-    teamComponent
-  },
-  data() {
-    return {
-      index: 0,
-      flag: false,
-      show: false,
+  export default {
+    name: 'Home',
+    components: {
+      cardComponent,
+      teamComponent
+    },
+    data() {
+      return {
+        index: 0,
+        flag: false,
+        show: false,
       teamDetails: null,
       smallWindow: false
     }
@@ -90,7 +90,7 @@ export default {
       else
           this.$store.commit('nextPlayer')
       console.log(this.$store.state)
-      this.$http.post("https://bvm-cricket.herokuapp.com/store", this.$store.state)
+      this.$http.post("https://dry-cove-40250.herokuapp.com/cric/store", this.$store.state)
     },
     setFlag() {
       this.flag = true
@@ -100,7 +100,7 @@ export default {
       this.teamDetails = team
     },
     getState() {
-      this.$http.get("https://bvm-cricket.herokuapp.com/store").then(function(response) {
+      this.$http.get("https://dry-cove-40250.herokuapp.com/cric/store").then(function (response) {
         this.$store.commit('updateState', response.body[0])
       })
     },
