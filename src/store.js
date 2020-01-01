@@ -8,73 +8,73 @@ export default new Vuex.Store({
     state: {
         teams: [
             {
-                name: "BVM Blasters",
+                name: "BVM Spartans",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/1.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM GS 11",
+                name: "BVM POWER HITTERS",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/2.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Knight Riders",
+                name: "BVM MAVERICKS",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/3.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Legends",
+                name: "BVM Roaring Lions",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/4.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Pakhtoon",
+                name: "BVM Rising Stars",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/5.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Stars",
+                name: "GS 11",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/6.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Strikers",
+                name: "BVM FORTUNE GIANTS",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/7.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Super Kings",
+                name: "BVM Strikers",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/8.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Thunder",
+                name: "BVM Stars",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/9.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Tigers",
+                name: "BVM Bulls",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/10.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Tigers",
+                name: "BVM Fighters",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/11.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Tigers",
+                name: "BVM Royal Strikers",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/12.png",
                 balance: 10000,
                 players: []
