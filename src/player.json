@@ -1,2689 +1,3272 @@
 {
   "players": [
     {
-      "_id": "5c1699868293b8001622f849",
-      "name": "Rajan Tilva",
-      "collegeID": "16CE075",
-      "department": "civil",
-      "year": "3",
-      "phone": "9409507788",
-      "photoID": "15449848779077133494969154572640.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169a198293b8001622f84a",
-      "name": "Umang patoliya",
-      "collegeID": "18EL019",
-      "department": "el",
-      "year": "1",
-      "phone": "8980509806",
-      "photoID": "15449850665783886144691705378751.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169ad78293b8001622f84b",
-      "name": "Jaimin Patel",
-      "collegeID": "15ME513",
-      "department": "mech",
-      "year": "4",
-      "phone": "7046279348",
-      "photoID": "15449852215813285153322193813117.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169b818293b8001622f84c",
-      "name": "Kevin M. Ruparelia",
-      "collegeID": "15ME504",
-      "department": "mech",
-      "year": "4",
-      "phone": "7227377140",
-      "photoID": "Kevin_Ruparelia_15ME504.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c169c568293b8001622f84d",
-      "name": "Dhruvil Mayani",
-      "collegeID": "15CE062",
-      "department": "civil",
-      "year": "2",
-      "phone": "8866678937",
-      "photoID": "Screenshot_2018-12-17-00-09-48-640_com.miui.gallery.png",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169ccd8293b8001622f84e",
-      "name": "Bhumit dankhara",
-      "collegeID": "16CE001",
-      "department": "civil",
-      "year": "3",
-      "phone": "8460009830",
-      "photoID": "Bhumit 16CE001.jpg",
+      "name": "HARSH N. AJUDIA",
+      "department": "IT",
+      "collegeID": "19IT418",
+      "year": "1st Year",
+      "_id": "1",
+      "photoID": "1.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
         "wk": true,
         "allRounder": false
       }
     },
     {
-      "_id": "5c169d1e8293b8001622f84f",
-      "name": "Nilesh Poshiya",
-      "collegeID": "16CE048",
-      "department": "civil",
-      "year": "3",
-      "phone": "7878996994",
-      "photoID": "Nilesh_Poshiya_16CE048.jpg",
+      "name": "MARAKANA PALLAV",
+      "department": "ME",
+      "collegeID": "I9ME401",
+      "year": "1st Year",
+      "_id": "2",
+      "photoID": "2.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c169d658293b8001622f850",
-      "name": "Nigam Gohil",
-      "collegeID": "16EE002",
-      "department": "ee",
-      "year": "3",
-      "phone": "9512815001",
-      "photoID": "IMG-20181217-WA0000.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "left",
-        "bolHand": "none",
-        "bolType": "none",
         "wk": true,
         "allRounder": false
       }
     },
     {
-      "_id": "5c169dc88293b8001622f851",
-      "name": "Jayesh Chaudhary",
-      "collegeID": "16PE005",
-      "department": "prod",
-      "year": "3",
-      "phone": "8264719569",
-      "photoID": "Jayesh Chaudhari Pro. (-1) 20181217_001724.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169e2e8293b8001622f852",
-      "name": "Shubham Advani",
-      "collegeID": "17CE106",
-      "department": "civil",
-      "year": "2",
-      "phone": "9428383338",
-      "photoID": "Screenshot_2018-12-17-00-18-59-196_com.miui.gallery.png",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169ea88293b8001622f853",
-      "name": "Hadiya Dipak g.",
-      "collegeID": "17CE062",
-      "department": "civil",
-      "year": "2",
-      "phone": "9712538038",
-      "photoID": "15449862517283986470373897232284.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169f9c8293b8001622f854",
-      "name": "Purvit khunt",
-      "collegeID": "17ME004",
-      "department": "mech",
-      "year": "2",
-      "phone": "7201022192",
-      "photoID": "Screenshot_2018-12-17-00-25-03-184_com.miui.gallery.png",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c169fea8293b8001622f855",
-      "name": "Jayesh Sabaliya",
-      "collegeID": "17PE303",
-      "department": "prod",
-      "year": "3",
-      "phone": "8153909698",
-      "photoID": "Jayesh_Sabaliya_17PE303.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c16a0ad8293b8001622f856",
-      "name": "Rahul singh",
-      "collegeID": "17ME039",
-      "department": "mech",
-      "year": "2",
-      "phone": "8000110258",
-      "photoID": "15449867705807266709794941308990.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a0fe8293b8001622f857",
-      "name": "Saurabh Pandey",
-      "collegeID": "17PE007",
-      "department": "prod",
-      "year": "2",
-      "phone": "9265175981",
-      "photoID": "SAURABH_PANDEY_17PE007.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a1518293b8001622f858",
-      "name": "Harshil Patel",
-      "collegeID": "18PE001",
-      "department": "prod",
-      "year": "1",
-      "phone": "7621004127",
-      "photoID": "Screenshot_2018-12-17-00-32-28-328_com.miui.gallery.png",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a1c78293b8001622f859",
-      "name": "Vaibhav achegave",
-      "collegeID": "18EE202",
-      "department": "ee",
-      "year": "1",
-      "phone": "7265021584",
-      "photoID": "Screenshot_2018-12-17-00-33-58-644_cn.wps.moffice_eng.png",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a2158293b8001622f85a",
-      "name": "Gadhiya kirtan",
-      "collegeID": "18CP065",
-      "department": "cp",
-      "year": "1",
-      "phone": "9624692936",
-      "photoID": "15449871373697980843559492564478.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a26c8293b8001622f85b",
-      "name": "Rushi Joshi",
-      "collegeID": "18PE307",
-      "department": "prod",
-      "year": "2",
-      "phone": "9879541256",
-      "photoID": "\u202a+91 98795 41256\u202c 20181217_003702.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a2e18293b8001622f85c",
-      "name": "Masum patel",
-      "collegeID": "16CE079",
-      "department": "civil",
-      "year": "3",
-      "phone": "9429953764",
-      "photoID": "Masum 16CE079.jpeg.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a33b8293b8001622f85d",
-      "name": "Rushirajsinh Gohil",
-      "collegeID": "16Ce070",
-      "department": "civil",
-      "year": "3",
-      "phone": "9925775241",
-      "photoID": "15449874339676499417344326494022.jpg",
+      "name": "MAHETA KISHAN KUMAR",
+      "department": "CP",
+      "collegeID": "I9CPO77",
+      "year": "1st Year",
+      "_id": "3",
+      "photoID": "3.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "left",
-        "bolHand": "none",
-        "bolType": "none",
+        "bolHand": "RIGHT",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c16a37e8293b8001622f85e",
-      "name": "Jayraj bhadkan",
-      "collegeID": "17CE023",
-      "department": "civil",
-      "year": "2",
-      "phone": "7698448113",
-      "photoID": "Screenshot_2018-12-17-00-41-43-240_com.miui.gallery.png",
+      "name": "BHARADAVA SIDDHARTH M.",
+      "department": "CIVIL",
+      "collegeID": "19CE010",
+      "year": "1st Year",
+      "_id": "4",
+      "photoID": "4.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a4188293b8001622f85f",
-      "name": "Zohin rana",
-      "collegeID": "17CE120",
-      "department": "civil",
-      "year": "2",
-      "phone": "8866420376",
-      "photoID": "images.png",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a4768293b8001622f860",
-      "name": "Malay Virani",
-      "collegeID": "17Me044",
-      "department": "mech",
-      "year": "2",
-      "phone": "9033195871",
-      "photoID": "Screenshot_2018-12-17-00-45-37-118_cn.wps.moffice_eng.png",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a4aa8293b8001622f861",
-      "name": "Hapani heman",
-      "collegeID": "17PE422",
-      "department": "prod",
-      "year": "2",
-      "phone": "8264730430",
-      "photoID": "Heman_hapani_17pe422.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a4f88293b8001622f862",
-      "name": "Thoriya raj",
-      "collegeID": "17CE038",
-      "department": "civil",
-      "year": "2",
-      "phone": "9904095864",
-      "photoID": "images.png",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a5368293b8001622f863",
-      "name": "Ritik patel",
-      "collegeID": "17ME041",
-      "department": "mech",
-      "year": "2",
-      "phone": "9913328271",
-      "photoID": "images.png",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c16a56e8293b8001622f864",
-      "name": "Rahul Hadiya",
-      "collegeID": "17CE081",
-      "department": "civil",
-      "year": "2",
-      "phone": "9099153185",
-      "photoID": "rahul_hadiya_17CE081.jpg",
+      "name": "OLAKIYA DHARMIK V.",
+      "department": "CIVIL",
+      "collegeID": "19CE018",
+      "year": "1st Year",
+      "_id": "5",
+      "photoID": "5.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VALA YASH J.",
+      "department": "CP",
+      "collegeID": "19CPOS7",
+      "year": "1st Year",
+      "_id": "6",
+      "photoID": "6.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SODHA NILAMSINH A.",
+      "department": "EL",
+      "collegeID": "19EE012",
+      "year": "1st Year",
+      "_id": "7",
+      "photoID": "7.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
         "wk": false,
         "allRounder": false
       }
     },
     {
-      "_id": "5c16a5b58293b8001622f865",
-      "name": "Yug sharma",
-      "collegeID": "17EE028",
-      "department": "ee",
-      "year": "2",
-      "phone": "9558628663",
-      "photoID": "Yug Sharma_17EE028.jpg",
+      "name": "SHIVBHADRASINH M. SARVAIYA",
+      "department": "ME",
+      "collegeID": "19ME047",
+      "year": "1st Year",
+      "_id": "8",
+      "photoID": "8.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c16a6038293b8001622f866",
-      "name": "Arpit r.",
-      "collegeID": "18PE004",
-      "department": "prod",
-      "year": "1",
-      "phone": "8469475140",
-      "photoID": "Screenshot_2018-12-17-00-52-14-449_com.whatsapp.png",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174bb2740f8e0016837278",
-      "name": "GAJJAR YASH H ",
-      "collegeID": "18EE036",
-      "department": "ee",
-      "year": "1",
-      "phone": "9924314714",
-      "photoID": "yash_gajjar_18EE036.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "left",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174bf9740f8e001683727b",
-      "name": "Vatsal k. Patel",
-      "collegeID": "15PE004",
-      "department": "prod",
-      "year": "4",
-      "phone": "8401554220",
-      "photoID": "15450305752034877118805496510212.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174c51740f8e001683727c",
-      "name": "Pathak Dhruv M.",
-      "collegeID": "18ME605",
-      "department": "mech",
-      "year": "2",
-      "phone": "7990825520",
-      "photoID": "15450306921586860655148672679036.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174c5b740f8e001683727d",
-      "name": "ARTH PATEL ",
-      "collegeID": "15PE513",
-      "department": "prod",
-      "year": "4",
-      "phone": "9408199478",
-      "photoID": "IMG-20181217-WA0000.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "bolHand": "LEFT/LEG SPIN",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c174c90740f8e001683727e",
-      "name": "MANSURA SECT",
-      "collegeID": "17IT441",
-      "department": "it",
-      "year": "2",
-      "phone": "8320852523",
-      "photoID": "IMG-20181217-WA0005.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174cce740f8e001683727f",
-      "name": "Mahida Jignesh ",
-      "collegeID": "18me401",
-      "department": "mech",
-      "year": "1",
-      "phone": "9099584749",
-      "photoID": "15450308017822229211984877595116.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174cd7740f8e0016837280",
-      "name": "Kratagna Patel",
-      "collegeID": "15PE512",
-      "department": "prod",
-      "year": "4",
-      "phone": "9099310056",
-      "photoID": "15450307742446437592164071462900.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174ce4740f8e0016837281",
-      "name": "Khanjan Marthak",
-      "collegeID": "18EC405",
-      "department": "ec",
-      "year": "1",
-      "phone": "9428894767",
-      "photoID": "IMG_20181217_124410796_HDR.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "left",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174d10740f8e0016837282",
-      "name": "Siddharth Pai",
-      "collegeID": "18EC416",
-      "department": "ec",
-      "year": "1",
-      "phone": "8154059805",
-      "photoID": "1545030860194359331483839806034.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174d16740f8e0016837283",
-      "name": "Pranav ruparelia",
-      "collegeID": "17PE420",
-      "department": "prod",
-      "year": "2",
-      "phone": "9664716318",
-      "photoID": "15450308727471447794117104413429.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174d36740f8e0016837284",
-      "name": "Bhanderi Dharmik ",
-      "collegeID": "18me054",
-      "department": "mech",
-      "year": "1",
-      "phone": "9033227174",
-      "photoID": "15450309337141864941588769464535.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174d50740f8e0016837285",
-      "name": "Pathan Arbaz Khan S.",
-      "collegeID": "18ME322",
-      "department": "mech",
-      "year": "2",
-      "phone": "9638642880",
-      "photoID": "IMG_20181217_124603714_HDR.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174d70740f8e0016837286",
-      "name": "Patel deep",
-      "collegeID": "18CE122",
-      "department": "civil",
-      "year": "1",
-      "phone": "6353914520",
-      "photoID": "15450309755826707213158272627843.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174d72740f8e0016837289",
-      "name": "Chavdhari Mayankkumar .B",
-      "collegeID": "18CE106",
-      "department": "civil",
-      "year": "1",
-      "phone": "6354142376",
-      "photoID": "15450309768406728184757855668454.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174d8f740f8e001683728a",
-      "name": "Harshit Patel ",
-      "collegeID": "140070107035",
-      "department": "cp",
-      "year": "4",
-      "phone": "7046089996",
-      "photoID": "15450310151091179510114435944989.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174da8740f8e001683728b",
-      "name": "Vishwa Kansara",
-      "collegeID": "18EC437",
-      "department": "ec",
-      "year": "1",
-      "phone": "9033857222",
-      "photoID": "IMG_20181217_124738452_HDR.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "left",
-        "bolType": "leg-spin",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174db3740f8e001683728c",
-      "name": "Devendra R Patel",
+      "name": "DEVENDRA PATEL",
+      "department": "EL",
       "collegeID": "18EL072",
-      "department": "el",
-      "year": "1",
-      "phone": "9727517331",
-      "photoID": "IMG-20181217-WA0001.jpg",
+      "year": "2nd Year",
+      "_id": "9",
+      "photoID": "9.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "none",
+        "bolHand": "RIGHT/ MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c174dba740f8e001683728d",
-      "name": "Manav n patel",
-      "collegeID": "18CP018",
-      "department": "cp",
-      "year": "1",
-      "phone": "6355087110",
-      "photoID": "15450310612051090667304591660594.jpg",
+      "name": "RISHABH KUMAR",
+      "department": "ME",
+      "collegeID": "19ME418",
+      "year": "1st Year",
+      "_id": "10",
+      "photoID": "10.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "bolHand": "RIGHT",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SINGH ARPEET RANJEET",
+      "department": "EL",
+      "collegeID": "19EE010",
+      "year": "1st Year",
+      "_id": "11",
+      "photoID": "11.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/ MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VARISHTH PANDYA",
+      "department": "EL",
+      "collegeID": "19EE001",
+      "year": "1st Year",
+      "_id": "12",
+      "photoID": "12.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "BAVISI KEVAL A.",
+      "department": "EE",
+      "collegeID": "19EL0119",
+      "year": "1st Year",
+      "_id": "13",
+      "photoID": "13.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "DIVIJ PATEL",
+      "department": "ME",
+      "collegeID": "17ME018",
+      "year": "3rd Year",
+      "_id": "14",
+      "photoID": "14.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/ FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "YASH PATEL ",
+      "department": "PROD",
+      "collegeID": "16PE008",
+      "year": "4th Year",
+      "_id": "15",
+      "photoID": "15.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SAURAV M. BHAJARIYA",
+      "department": "CIVIL",
+      "collegeID": "17CE006",
+      "year": "3rd Year",
+      "_id": "16",
+      "photoID": "16.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": false
       }
     },
     {
-      "_id": "5c174ddd740f8e001683728e",
-      "name": "Vraj Panchal",
-      "collegeID": "17ce116",
-      "department": "civil",
-      "year": "2",
-      "phone": "9664618689",
-      "photoID": "15450310974032245428930978268612.jpg",
+      "name": "DHRUV PATEL",
+      "department": "EC",
+      "collegeID": "17EC145",
+      "year": "3rd Year",
+      "_id": "17",
+      "photoID": "17.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
         "wk": false,
-        "allRounder": true
+        "allRounder": false
       }
     },
     {
-      "_id": "5c174e0b740f8e001683728f",
-      "name": "Rutvik D Maheshwari",
-      "collegeID": "18EC451",
-      "department": "ec",
-      "year": "1",
-      "phone": "7435867375",
-      "photoID": "15450311349981868965750043914518.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174e20740f8e0016837290",
-      "name": "Mangal Makwana",
-      "collegeID": "16CP313",
-      "department": "cp",
-      "year": "4",
-      "phone": "9979091917",
-      "photoID": "IMG_20181217_124943875.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174e26740f8e0016837291",
-      "name": "Ajitkumar sethi",
+      "name": "AJIT D SETHI",
+      "department": "EL",
       "collegeID": "17EE205",
-      "department": "ee",
-      "year": "2",
-      "phone": "7698103961",
-      "photoID": "15450311730645979700262551055326.jpg",
+      "year": "3rd Year",
+      "_id": "18",
+      "photoID": "18.jpg",
       "category": {
-        "playerType": "bronze",
+        "playerType": "silver",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
+        "bolHand": "RIGHT/FAST",
         "wk": false,
-        "allRounder": false
+        "allRounder": true
       }
     },
     {
-      "_id": "5c174e3d740f8e0016837292",
-      "name": "Chauhan Darshan K.",
-      "collegeID": "18CE101",
-      "department": "civil",
-      "year": "1",
-      "phone": "9484772166",
-      "photoID": "15450311926566898956542190966856.jpg",
+      "name": "PARMAR DHRUVIL R",
+      "department": "EE",
+      "collegeID": "18EL026",
+      "year": "1st Year",
+      "_id": "19",
+      "photoID": "19.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHYAM KANERIYA",
+      "department": "EE",
+      "collegeID": "16EL063",
+      "year": "4th Year",
+      "_id": "20",
+      "photoID": "20.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "RIGHT ",
         "wk": true,
-        "allRounder": true
+        "allRounder": false
       }
     },
     {
-      "_id": "5c174e50740f8e0016837293",
-      "name": "Pipaliya Akshit",
-      "collegeID": "18me057",
-      "department": "mech",
-      "year": "1",
-      "phone": "8469519031",
-      "photoID": "15450311987634027879366574695193.jpg",
+      "name": "UTSAV FULETRA",
+      "department": "EE",
+      "collegeID": "16EL035",
+      "year": "4th Year",
+      "_id": "21",
+      "photoID": "21.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
+        "bolHand": "RIGHT/FAST",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c174e99740f8e0016837294",
-      "name": "Ibrahim koicha",
-      "collegeID": "18EL052",
-      "department": "el",
-      "year": "1",
-      "phone": "9687108069",
-      "photoID": "15450312748954057521901673752069.jpg",
+      "name": "AVADH VAGHELA",
+      "department": "CIVIL",
+      "collegeID": "18CE067",
+      "year": "2nd Year",
+      "_id": "22",
+      "photoID": "22.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c174ea7740f8e0016837295",
-      "name": "Virpariya vasu",
-      "collegeID": "17EL053",
-      "department": "el",
-      "year": "2",
-      "phone": "9662226612",
-      "photoID": "15450312998285061507591604564050.jpg",
+      "name": "DHAMSANIYA RAJ A.",
+      "department": "CIVIL",
+      "collegeID": "18CE070",
+      "year": "2nd Year",
+      "_id": "23",
+      "photoID": "23.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "bolHand": "LEFT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c174ea7740f8e0016837296",
-      "name": "Virpariya vasu",
-      "collegeID": "17EL053",
-      "department": "el",
-      "year": "2",
-      "phone": "9662226612",
-      "photoID": "15450312998285061507591604564050.jpg",
+      "name": "GAJERA SNEH",
+      "department": "CIVIL",
+      "collegeID": "18CE072",
+      "year": "2nd Year",
+      "_id": "24",
+      "photoID": "24.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174ea8740f8e0016837297",
-      "name": "Dushyant dodiya",
-      "collegeID": "15PE022",
-      "department": "prod",
-      "year": "1",
-      "phone": "7201028234",
-      "photoID": "15450312721688340614777200813654.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
         "wk": false,
         "allRounder": false
       }
     },
     {
-      "_id": "5c174eb4740f8e0016837298",
-      "name": "Rana Yash Pravinchand",
-      "collegeID": "16EE202",
-      "department": "ee",
-      "year": "3",
-      "phone": "7096144575",
-      "photoID": "IMG-20181217-WA0004.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174ec8740f8e0016837299",
-      "name": "Ashish chaudhari",
-      "collegeID": "15cp043",
-      "department": "cp",
-      "year": "4",
-      "phone": "7359913457",
-      "photoID": "IMG-20181217-WA0001.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174f0d740f8e001683729a",
-      "name": "Odedra Ravi",
-      "collegeID": "16CE324",
-      "department": "civil",
-      "year": "4",
-      "phone": "9913276527",
-      "photoID": "15450314048268268597541447152894.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174f0e740f8e001683729b",
-      "name": "Dhruv shah",
-      "collegeID": "17CE069",
-      "department": "civil",
-      "year": "2",
-      "phone": "9275953988",
-      "photoID": "15450314037405929798513920930144.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "leg-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174f0e740f8e001683729c",
-      "name": "Dhruv shah",
-      "collegeID": "17CE069",
-      "department": "civil",
-      "year": "2",
-      "phone": "9275953988",
-      "photoID": "15450314037405929798513920930144.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "leg-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174f1d740f8e001683729d",
-      "name": "Smit doshi",
-      "collegeID": "17ME094",
-      "department": "mech",
-      "year": "2",
-      "phone": "9662294225",
-      "photoID": "15450314293424717887902682915503.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174f49740f8e001683729e",
-      "name": "Ibrahim Koicha",
-      "collegeID": "18EL052",
-      "department": "el",
-      "year": "1",
-      "phone": "9687108069",
-      "photoID": "15450314060598334258349716337788.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174fa3740f8e001683729f",
-      "name": "Bharatsinh Junjiya",
-      "collegeID": "16CE108",
-      "department": "civil",
-      "year": "3",
-      "phone": "9925761993",
-      "photoID": "1545031561842264241503989317116.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174fdc740f8e00168372a0",
-      "name": "Suryakumar p tadvi",
-      "collegeID": "18ME088",
-      "department": "mech",
-      "year": "1",
-      "phone": "8200250564",
-      "photoID": "154503159648365885044067384012.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c174fe1740f8e00168372a1",
-      "name": "Jeet Ambaliya",
-      "collegeID": "18EL013",
-      "department": "el",
-      "year": "1",
-      "phone": "9601949719",
-      "photoID": "15450316092142025206882836379032.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c174fe9740f8e00168372a2",
-      "name": "Margil Rathod",
-      "collegeID": "16CE047",
-      "department": "civil",
-      "year": "3",
-      "phone": "7623063650",
-      "photoID": "IMG_20181217_125718344_HDR.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175031740f8e00168372a3",
-      "name": "Shrey bhuva",
-      "collegeID": "17CE076",
-      "department": "civil",
-      "year": "2",
-      "phone": "9106945347",
-      "photoID": "15450316883591548880744206115498.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175042740f8e00168372a4",
-      "name": "Goswami Ronak",
-      "collegeID": "18CE316",
-      "department": "civil",
-      "year": "2",
-      "phone": "7096404838",
-      "photoID": "15450317170828797449010336463747.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175055740f8e00168372a5",
-      "name": "Darshan panchal ",
-      "collegeID": "17ee005",
-      "department": "ee",
-      "year": "2",
-      "phone": "9773010628",
-      "photoID": "IMG-20181217-WA0002.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c17505e740f8e00168372a9",
-      "name": "Sorathiya Chirag",
-      "collegeID": "16CE035",
-      "department": "civil",
-      "year": "3",
-      "phone": "7048887644",
-      "photoID": "IMG_20181217_125832444_HDR.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175078740f8e00168372aa",
-      "name": "Deep sakhiya",
-      "collegeID": "17EC405",
-      "department": "ec",
-      "year": "2",
-      "phone": "7487816089",
-      "photoID": "IMG-20181217-WA0001.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175087740f8e00168372ab",
-      "name": "Lakhan Makadia",
-      "collegeID": "18EL036",
-      "department": "el",
-      "year": "1",
-      "phone": "8128739236",
-      "photoID": "15450317892613546300960154323436.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175091740f8e00168372ac",
-      "name": "Akash patel",
-      "collegeID": "16CE309",
-      "department": "civil",
-      "year": "4",
-      "phone": "9898604661",
-      "photoID": "15450317789298970078343112399638.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1750b4740f8e00168372ad",
-      "name": "Arjunsinh Vola",
-      "collegeID": "16EE008",
-      "department": "ee",
-      "year": "3",
-      "phone": "9737991030",
-      "photoID": "15450318410167091259784948973118.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1750d6740f8e00168372ae",
-      "name": "Gondaliya rahul",
-      "collegeID": "16CE060",
-      "department": "civil",
-      "year": "3",
-      "phone": "9586325719",
-      "photoID": "15450318700616422555811076640648.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1750d6740f8e00168372af",
-      "name": "Patel Shivang ",
-      "collegeID": "18CE309",
-      "department": "civil",
-      "year": "2",
-      "phone": "9978899443",
-      "photoID": "15450318606978751531359111213929.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1750f7740f8e00168372b0",
-      "name": "Kapadia Deep",
-      "collegeID": "18IT459",
-      "department": "it",
-      "year": "1",
-      "phone": "9773086291",
-      "photoID": "IMG-20181217-WA0002.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175101740f8e00168372b1",
-      "name": "Jenish Radadiya",
-      "collegeID": "16EP428",
-      "department": "ec",
-      "year": "3",
-      "phone": "8866517259",
-      "photoID": "154503191114990229867305998723.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175115740f8e00168372b2",
-      "name": "Makwana Chintan",
-      "collegeID": "18CE304",
-      "department": "civil",
-      "year": "2",
-      "phone": "9726326662",
-      "photoID": "15450319347513966202250404043109.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17512c740f8e00168372b3",
-      "name": "Kushal raval",
-      "collegeID": "17EE013",
-      "department": "ee",
-      "year": "2",
-      "phone": "8320870949",
-      "photoID": "15450319062263403791151647900265.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c17514e740f8e00168372b4",
-      "name": "Aghera Deep",
-      "collegeID": "16EE024",
-      "department": "ee",
-      "year": "3",
-      "phone": "9099192423",
-      "photoID": "15450319970747632847685012404320.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175155740f8e00168372b5",
-      "name": "Dinkas Shrivastav",
-      "collegeID": "17ME013",
-      "department": "mech",
-      "year": "2",
-      "phone": "9512777339",
-      "photoID": "15450319910375884106123676190812.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175178740f8e00168372b6",
-      "name": "Patel Vitkumar",
-      "collegeID": "18CE305",
-      "department": "civil",
-      "year": "2",
-      "phone": "9428388155",
-      "photoID": "15450320217043060826815605193478.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17517b740f8e00168372b7",
-      "name": "Vivek bhundia",
-      "collegeID": "15CE021",
-      "department": "civil",
-      "year": "4",
-      "phone": "7096679854",
-      "photoID": "1545032015976956993870859118995.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175192740f8e00168372b8",
-      "name": "Sakariya dhaval ",
-      "collegeID": "18me417",
-      "department": "mech",
-      "year": "1",
-      "phone": "7041837840",
-      "photoID": "Screenshot_20181217_130427.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1751a8740f8e00168372b9",
-      "name": "Subham Rami",
-      "collegeID": "16CE322",
-      "department": "civil",
-      "year": "4",
-      "phone": "8758237704",
-      "photoID": "IMG_20181217_130452637_HDR.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1751db740f8e00168372ba",
-      "name": "Akhil Rabadia",
-      "collegeID": "17EC407",
-      "department": "ec",
-      "year": "2",
-      "phone": "9104959988",
-      "photoID": "15450321094795527510704823585839.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1751f1740f8e00168372bb",
-      "name": "Shreyans Shah",
-      "collegeID": "16CE072",
-      "department": "civil",
-      "year": "3",
-      "phone": "9426471509",
-      "photoID": "IMG-20181217-WA0004.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1751f9740f8e00168372bc",
-      "name": "Gaurav Gohil",
-      "collegeID": "17EE044",
-      "department": "ee",
-      "year": "2",
-      "phone": "9081099181",
-      "photoID": "15450321253083423426727026999262.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1751ff740f8e00168372bd",
-      "name": "Viren jariwala",
-      "collegeID": "18ME062",
-      "department": "mech",
-      "year": "1",
-      "phone": "9427661995",
-      "photoID": "Viren_Jariwala _18ME062.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17521b740f8e00168372be",
-      "name": "Dharmendra jadeja ",
-      "collegeID": "15ce112",
-      "department": "civil",
-      "year": "4",
-      "phone": "7874179903",
-      "photoID": "Dharmendra_Jadeja_15CE112.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17523e740f8e00168372bf",
-      "name": "Bharti hit",
-      "collegeID": "18IT457",
-      "department": "it",
-      "year": "1",
-      "phone": "6354686589",
-      "photoID": "154503223008512792342463305916.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c17524b740f8e00168372c0",
-      "name": "Jay Patel",
-      "collegeID": "17CE204",
-      "department": "civil",
-      "year": "2",
-      "phone": "7096483096",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17525e740f8e00168372c1",
-      "name": "Samaritan Pranjal",
-      "collegeID": "17IT413",
-      "department": "it",
-      "year": "2",
-      "phone": "8347765018",
-      "photoID": "15450322555959011859357312500895.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175263740f8e00168372c2",
-      "name": "Dhandha Abhishek",
-      "collegeID": "16CE033",
-      "department": "civil",
-      "year": "3",
-      "phone": "7359103803",
-      "photoID": "IMG_20181217_130735821_HDR.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175268740f8e00168372c3",
-      "name": "Odedra ravi",
-      "collegeID": "16ce324",
-      "department": "civil",
-      "year": "4",
-      "phone": "9913276527",
-      "photoID": "15450322674241144465637760620857.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1752ae740f8e00168372c4",
-      "name": "Bhatt galav minesh",
-      "collegeID": "18EE027",
-      "department": "ee",
-      "year": "1",
-      "phone": "8849508186",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c1752b1740f8e00168372c5",
-      "name": "Kenil Sheth",
+      "name": "SHETH KENIL ALPESHBHAI",
+      "department": "ME",
       "collegeID": "17ME413",
-      "department": "mech",
-      "year": "2",
-      "phone": "9106636946",
-      "photoID": "Kenil_sheth 17ME413.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1752b9740f8e00168372c6",
-      "name": "Yash dobariya",
-      "collegeID": "15ce130",
-      "department": "civil",
-      "year": "4",
-      "phone": "9909277177",
-      "photoID": "IMG-20181217-WA0006.jpg",
+      "year": "3rd Year",
+      "_id": "25",
+      "photoID": "25.jpg",
       "category": {
         "playerType": "silver",
         "batHand": "right",
-        "bolHand": "left",
-        "bolType": "fast",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c1752ed740f8e00168372c7",
-      "name": "Ishan mohite",
-      "collegeID": "18ME056",
-      "department": "mech",
-      "year": "1",
-      "phone": "8758777079",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "leg-spin",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175322740f8e00168372c8",
-      "name": "Hiren gondaliya",
-      "collegeID": "16ce07",
-      "department": "civil",
-      "year": "3",
-      "phone": "7434972295",
-      "photoID": "Hiren Gondaliya 16CE071.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175327740f8e00168372c9",
-      "name": "Khakhar yash",
-      "collegeID": "18CE006",
-      "department": "civil",
-      "year": "1",
-      "phone": "8128282911",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175328740f8e00168372ca",
-      "name": "Gadara Parth ",
-      "collegeID": "16CE028",
-      "department": "civil",
-      "year": "3",
-      "phone": "9586008238",
-      "photoID": "IMG_20181217_130915226_HDR.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17534f740f8e00168372cb",
-      "name": "Ramya Damani",
-      "collegeID": "17EC450",
-      "department": "ec",
-      "year": "2",
-      "phone": "8734061042",
-      "photoID": "IMG-20181217-WA0001.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175358740f8e00168372cc",
-      "name": "Pawan p patel",
-      "collegeID": "18ME405",
-      "department": "mech",
-      "year": "1",
-      "phone": "9714483901",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175362740f8e00168372cd",
-      "name": "Mustafa munshi",
-      "collegeID": "18ee038",
-      "department": "ee",
-      "year": "1",
-      "phone": "9979628861",
-      "photoID": "15450325306726675296986616289464.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17536b740f8e00168372ce",
-      "name": "Monil K. Patel",
-      "collegeID": "16PE404",
-      "department": "prod",
-      "year": "3",
-      "phone": "8155024245",
-      "photoID": "15450325294033509954975205327898.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1753b1740f8e00168372cf",
-      "name": "Solanki Punit",
-      "collegeID": "17CE206",
-      "department": "civil",
-      "year": "2",
-      "phone": "9737098870",
-      "photoID": "15450323572558043253552531221430.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1753bd740f8e00168372d0",
-      "name": "Kathiriya Jeelkumar",
-      "collegeID": "17CE033",
-      "department": "civil",
-      "year": "2",
-      "phone": "8469449495",
-      "photoID": "15450325769017165220474334480806.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1753d9740f8e00168372d1",
-      "name": "Yash Patel",
-      "collegeID": "16PE408",
-      "department": "prod",
-      "year": "3",
-      "phone": "7359876610",
-      "photoID": "IMG-20181217-WA0005.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1753db740f8e00168372d2",
-      "name": "Khushal solanki ",
-      "collegeID": "15me098",
-      "department": "mech",
-      "year": "4",
-      "phone": "7874701749",
-      "photoID": "15450326405345258513498765697753.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1753f5740f8e00168372d3",
-      "name": "Kartik modi",
-      "collegeID": "16ET438",
-      "department": "ec",
-      "year": "3",
-      "phone": "7405733578",
-      "photoID": "FB_IMG_1498404756009.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
-        "wk": true,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175411740f8e00168372d4",
-      "name": "Vineet dogra",
-      "collegeID": "16ce207",
-      "department": "civil",
-      "year": "3",
-      "phone": "9797541113",
-      "photoID": "15450326994705808139025431893221.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17543c740f8e00168372d5",
-      "name": "Tarsariya Nayan",
-      "collegeID": "16CE063",
-      "department": "civil",
-      "year": "3",
-      "phone": "9687624462",
-      "photoID": "nayan_tarsariya_16CE063.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175441740f8e00168372d6",
-      "name": "Darshil gondaliya",
-      "collegeID": "15me012",
-      "department": "mech",
-      "year": "4",
-      "phone": "9913235338",
-      "photoID": "IMG_20181217_131548.JPG",
-      "category": {
-        "playerType": "gold",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17544c740f8e00168372d7",
-      "name": "Nihar A Desai",
-      "collegeID": "17IT431",
-      "department": "it",
-      "year": "2",
-      "phone": "9409418821",
-      "photoID": "Nihar Desai BVM IT 31 20181217_131603.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175458740f8e00168372d8",
-      "name": "Pathan Yasin",
-      "collegeID": "17EL064",
-      "department": "el",
-      "year": "2",
-      "phone": "9909286903",
-      "photoID": "IMG-20181217-WA0006.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175459740f8e00168372d9",
-      "name": "Anil gohil",
-      "collegeID": "17me065",
-      "department": "mech",
-      "year": "2",
-      "phone": "8140955866",
-      "photoID": "15450327544072601475524739881924.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "leg-spin",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c17548c740f8e00168372da",
-      "name": "Darshil Limbad",
-      "collegeID": "18EL007",
-      "department": "el",
-      "year": "1",
-      "phone": "7046726821",
-      "photoID": "15450328180794900520962319887366.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "left",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1754a9740f8e00168372db",
-      "name": "Nikin",
-      "collegeID": "18ec436",
-      "department": "ec",
-      "year": "1",
-      "phone": "7486800697",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c1754b4740f8e00168372dc",
-      "name": "Ritvik Singh chauhan",
-      "collegeID": "17EL435",
-      "department": "ec",
-      "year": "1",
-      "phone": "9979747306",
-      "photoID": "IMG-20181217-WA0004.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "none",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c1754ec740f8e00168372dd",
-      "name": "Harsh dani",
-      "collegeID": "18ec435",
-      "department": "ec",
-      "year": "1",
-      "phone": "8460875941",
-      "photoID": "15450329196534762599338698255595.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175517740f8e00168372de",
-      "name": "Hardik patel ",
-      "collegeID": "18ce013",
-      "department": "civil",
-      "year": "1",
-      "phone": "9879784707",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17551d740f8e00168372df",
-      "name": "Vaibhav Goel",
-      "collegeID": "17EC406",
-      "department": "ec",
-      "year": "2",
-      "phone": "7600065314",
-      "photoID": "IMG-20181217-WA0004.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175543740f8e00168372e0",
-      "name": "Dhyan sheth",
-      "collegeID": "18ce003",
-      "department": "civil",
-      "year": "1",
-      "phone": "7878557771",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": true,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c17554c740f8e00168372e1",
-      "name": "Kushal tanna",
-      "collegeID": "17IT421",
-      "department": "it",
-      "year": "2",
-      "phone": "9624095063",
-      "photoID": "Screenshot_20181217-132009.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "left",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175571740f8e00168372e2",
-      "name": "Bhonsle Ved M.",
-      "collegeID": "18EL023",
-      "department": "el",
-      "year": "1",
-      "phone": "9737611552",
-      "photoID": "1545033056919196379440377378060.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c175577740f8e00168372e3",
-      "name": "Karshan kanjariya",
-      "collegeID": "18ce011",
-      "department": "civil",
-      "year": "1",
-      "phone": "8780874426",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175594740f8e00168372e4",
-      "name": "Darshil limbad",
-      "collegeID": "18EL007",
-      "department": "el",
-      "year": "1",
-      "phone": "7046726821",
-      "photoID": "15450330876302449934867848634596.jpg",
-      "category": {
-        "playerType": "gold",
-        "batHand": "left",
-        "bolHand": "left",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1755a4740f8e00168372e5",
-      "name": "Kalpesh dodiya",
-      "collegeID": "18ce021",
-      "department": "civil",
-      "year": "1",
-      "phone": "8469440872",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "left",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1755d8740f8e00168372e6",
-      "name": "Yash Shah",
+      "name": "YASH SHAH",
+      "department": "IT",
       "collegeID": "17IT463",
-      "department": "it",
-      "year": "2",
-      "phone": "9408492603",
-      "photoID": "15450331489387575208393855531798.jpg",
+      "year": "3rd Year",
+      "_id": "26",
+      "photoID": "26.jpg",
       "category": {
-        "playerType": "silver",
+        "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "left",
-        "bolType": "off-spin",
+        "bolHand": "LEFT/OFF SPIN",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c1755d8740f8e00168372e7",
-      "name": "Naimish machchhar",
-      "collegeID": "18ee063",
-      "department": "ee",
-      "year": "1",
-      "phone": "9265567023",
-      "photoID": "IMG-20181217-WA0003.jpg",
+      "name": "DHAKHADA JITENDRA",
+      "department": "CIVIL",
+      "collegeID": "17CE093",
+      "year": "3rd Year",
+      "_id": "27",
+      "photoID": "27.jpg",
       "category": {
         "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c1755f3740f8e00168372ee",
-      "name": "Shekhada Utsav",
-      "collegeID": "17PE411",
-      "department": "prod",
-      "year": "2",
-      "phone": "0973775588",
-      "photoID": "15450331549646131451036224192516.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
+        "batHand": "RIGHT/LEFT",
+        "bolHand": "RIGHT/FAST",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c17560c740f8e00168372ef",
-      "name": "Het patel ",
-      "collegeID": "18ee022",
-      "department": "ee",
-      "year": "1",
-      "phone": "9737618461",
-      "photoID": "IMG-20181217-WA0003.jpg",
+      "name": "PATHAN ARBAAZ KHAN",
+      "department": "ME",
+      "collegeID": "18ME322",
+      "year": "3rd Year",
+      "_id": "28",
+      "photoID": "28.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "DIXIT PATEL",
+      "department": "STRUCT. Engg",
+      "collegeID": "18SE811",
+      "year": "2nd Year",
+      "_id": "29",
+      "photoID": "29.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "left",
-        "bolHand": "left",
-        "bolType": "fast",
+        "bolHand": "LEFT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c17561a740f8e00168372f0",
-      "name": "Keval Padsumbiya",
-      "collegeID": "17IT405",
-      "department": "it",
-      "year": "2",
-      "phone": "9825497729",
-      "photoID": "154503322246140189877783946088.jpg",
+      "name": "MOHIT DEVPURA",
+      "department": "EE",
+      "collegeID": "17EE012",
+      "year": "3rd Year",
+      "_id": "30",
+      "photoID": "30.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "JADAV YUVRAJSINH J.",
+      "department": "EL",
+      "collegeID": "18EE041",
+      "year": "2nd Year",
+      "_id": "31",
+      "photoID": "31.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARMAR VATSAL H.",
+      "department": "EL",
+      "collegeID": "18EE006",
+      "year": "2nd Year",
+      "_id": "32",
+      "photoID": "32.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARMAR VATSAL A.",
+      "department": "EL",
+      "collegeID": "18EE005",
+      "year": "2nd Year",
+      "_id": "33",
+      "photoID": "33.jpg",
       "category": {
         "playerType": "gold",
-        "batHand": "left",
-        "bolHand": "left",
-        "bolType": "fast",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c175636740f8e00168372f1",
-      "name": "Dhyey kagathara ",
-      "collegeID": "18me087",
-      "department": "mech",
-      "year": "1",
-      "phone": "9426370090",
-      "photoID": "IMG-20181217-WA0003.jpg",
+      "name": "RAHUL S KUDAM",
+      "department": "EE",
+      "collegeID": "18EL009",
+      "year": "2nd Year",
+      "_id": "34",
+      "photoID": "34.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "left",
-        "bolType": "medium",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c17565d740f8e00168372f2",
-      "name": "Talaviya tejendra",
-      "collegeID": "17PE405",
-      "department": "prod",
-      "year": "2",
-      "phone": "7096036414",
-      "photoID": "15450332904218350828822520464029.jpg",
+      "name": "SAKARIYA DHAVAL V.",
+      "department": "ME",
+      "collegeID": "18ME417",
+      "year": "2nd Year",
+      "_id": "35",
+      "photoID": "35.jpg",
       "category": {
         "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/OFF SPIN ",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c175664740f8e00168372f3",
-      "name": "Aum chavda ",
-      "collegeID": "18me430",
-      "department": "mech",
-      "year": "1",
-      "phone": "9099018067",
-      "photoID": "IMG-20181217-WA0003.jpg",
+      "name": "DHRUV M KAILA",
+      "department": "CIVIL",
+      "collegeID": "18CE088",
+      "year": "2nd Year",
+      "_id": "36",
+      "photoID": "36.jpg",
       "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "playerType": "gold",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c17569a740f8e00168372f4",
-      "name": "Jay parekh ",
-      "collegeID": "18pe308",
-      "department": "prod",
-      "year": "2",
-      "phone": "7567541116",
-      "photoID": "IMG-20181217-WA0003.jpg",
+      "name": "BHAVESH PARMAR",
+      "department": "ME",
+      "collegeID": "18ME027",
+      "year": "2nd Year",
+      "_id": "37",
+      "photoID": "37.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
+        "bolHand": "RIGHT/FAST",
         "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "TUSAR P KAVAR",
+      "department": "CIVIL",
+      "collegeID": "18CE090",
+      "year": "2nd Year",
+      "_id": "38",
+      "photoID": "38.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SOLANKI JAYDIP",
+      "department": "CIVIL",
+      "collegeID": "18CE081",
+      "year": "2nd Year",
+      "_id": "39",
+      "photoID": "39.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM/OFFSPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KARMUR RINKESH M",
+      "department": "CIVIL",
+      "collegeID": "18CE109",
+      "year": "2nd Year",
+      "_id": "40",
+      "photoID": "40.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "DUSHI SMIT",
+      "department": "ME",
+      "collegeID": "17ME094",
+      "year": "3rd Year",
+      "_id": "41",
+      "photoID": "41.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
         "allRounder": false
       }
     },
     {
-      "_id": "5c1756cc740f8e00168372f5",
-      "name": "Badal panchal",
-      "collegeID": "15pe520",
-      "department": "prod",
-      "year": "4",
-      "phone": "9033149281",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175718740f8e00168372f6",
-      "name": "Shreyansh sinha",
-      "collegeID": "17PE402",
-      "department": "prod",
-      "year": "2",
-      "phone": "7801874184",
-      "photoID": "IMG_20181211_205222_1544541769339.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": false
-      }
-    },
-    {
-      "_id": "5c1757e3740f8e00168372f7",
-      "name": "Mann patel ",
-      "collegeID": "18me407",
-      "department": "mech",
-      "year": "1",
-      "phone": "7574970797",
-      "photoID": "15450336740862853190443744109677.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c1757e7740f8e00168372f8",
-      "name": "Daki Parth",
-      "collegeID": "17ME006",
-      "department": "mech",
-      "year": "2",
-      "phone": "9664822488",
-      "photoID": "\u202a+91 96648 22488\u202c 20181213_191628.jpg",
+      "name": "JOSHI ASHUTOSH",
+      "department": "CIVIL",
+      "collegeID": "17CE121",
+      "year": "3rd Year",
+      "_id": "42",
+      "photoID": "42.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "left",
-        "bolHand": "right",
-        "bolType": "medium",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c175815740f8e00168372f9",
-      "name": "Dhruv makadiya",
-      "collegeID": "18ce088",
-      "department": "civil",
-      "year": "1",
-      "phone": "9974077626",
-      "photoID": "154503373280493464292373424650.jpg",
+      "name": "DARJI CHINTAN N",
+      "department": "CP",
+      "collegeID": "18CP023",
+      "year": "2nd Year",
+      "_id": "43",
+      "photoID": "43.jpg",
       "category": {
         "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c17583a740f8e00168372fa",
-      "name": "Parmar vatsal",
-      "collegeID": "18EE006",
-      "department": "ee",
-      "year": "1",
-      "phone": "8460387396",
-      "photoID": "15450337670613938507735414600547.jpg",
+      "name": "HRUSHIKESH M VEGAD",
+      "department": "EE",
+      "collegeID": "19EL092",
+      "year": "1st Year",
+      "_id": "44",
+      "photoID": "44.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175848740f8e00168372fb",
-      "name": "Khanna kartik",
-      "collegeID": "18ee014",
-      "department": "ee",
-      "year": "1",
-      "phone": "6354113586",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175878740f8e00168372fc",
-      "name": "Arka Gosh",
-      "collegeID": "18EC409",
-      "department": "ec",
-      "year": "1",
-      "phone": "7435867375",
-      "photoID": "15450338274463784634568819904785.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175878740f8e00168372fd",
-      "name": "Harpalsinh dodiya",
-      "collegeID": "17el038",
-      "department": "ee",
-      "year": "1",
-      "phone": "8487017511",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "off-spin",
-        "wk": false,
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": true,
         "allRounder": false
       }
     },
     {
-      "_id": "5c1758ac740f8e00168372fe",
-      "name": "Parmar vatsal",
-      "collegeID": "18ee005",
-      "department": "ee",
-      "year": "1",
-      "phone": "8511054149",
-      "photoID": "15450338809257450084513479818162.jpg",
+      "name": "MANAV N PATEL",
+      "department": "CP",
+      "collegeID": "18CP018",
+      "year": "2nd Year",
+      "_id": "45",
+      "photoID": "45.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RAVI S PARMAR",
+      "department": "EE",
+      "collegeID": "18EL006",
+      "year": "2nd Year",
+      "_id": "46",
+      "photoID": "46.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "LEFT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VASU N PATEL",
+      "department": "EE",
+      "collegeID": "18EL002",
+      "year": "2nd Year",
+      "_id": "47",
+      "photoID": "47.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "ABHISHEK S RAGHUVANSHI",
+      "department": "EL",
+      "collegeID": "19EE058",
+      "year": "1st Year",
+      "_id": "48",
+      "photoID": "48.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CAWDA DHAIRYA A",
+      "department": "CIVIL",
+      "collegeID": "18CE322",
+      "year": "3rd Year",
+      "_id": "49",
+      "photoID": "49.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
+        "bolHand": "MEDIUM",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c1758b8740f8e00168372ff",
-      "name": "Brijesh Nasit",
-      "collegeID": "15IT065",
-      "department": "it",
-      "year": "4",
-      "phone": "9537871595",
-      "photoID": "1545033893010577545416360468135.jpg",
+      "name": "YASH RANA ",
+      "department": "EL",
+      "collegeID": "16EE202",
+      "year": "4th Year",
+      "_id": "50",
+      "photoID": "50.jpg",
       "category": {
         "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
+        "batHand": "RIGHT ",
+        "bolHand": "RIGHT/FAST",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c1759df740f8e0016837300",
-      "name": "Parmar Nagajan J.",
-      "collegeID": "15ME065",
-      "department": "mech",
-      "year": "4",
-      "phone": "9714707001",
-      "photoID": "IMG-20181217-WA0003.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175c8d740f8e0016837301",
-      "name": "Gautam Vivekanandan",
-      "collegeID": "16ET417",
-      "department": "ec",
-      "year": "3",
-      "phone": "8758192989",
-      "photoID": "1545034854608-2039280035.jpg",
-      "category": {
-        "playerType": "silver",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "fast",
-        "wk": false,
-        "allRounder": true
-      }
-    },
-    {
-      "_id": "5c175cd4740f8e0016837302",
-      "name": "Mrudang Oza",
-      "collegeID": "16ET409",
-      "department": "ec",
-      "year": "3",
-      "phone": "8469990274",
-      "photoID": "15450349404654272316678912569789.jpg",
+      "name": "VISHWA KANSARA",
+      "department": "EC",
+      "collegeID": "18EC437",
+      "year": "2nd Year",
+      "_id": "51",
+      "photoID": "51.jpg",
       "category": {
         "playerType": "bronze",
-        "batHand": "right",
-        "bolHand": "right",
-        "bolType": "medium",
+        "batHand": "left",
+        "bolHand": "LEFT/OFF SPIN ",
         "wk": true,
         "allRounder": true
       }
     },
     {
-      "_id": "5c175d65740f8e0016837303",
-      "name": "Kenil Naik",
-      "collegeID": "17EL011",
-      "department": "el",
-      "year": "2",
-      "phone": "8200858154",
-      "photoID": "kenil_naik_17el011.jpg",
+      "name": "MAKWANA MIKEN",
+      "department": "EC",
+      "collegeID": "18EC436",
+      "year": "2nd Year",
+      "_id": "52",
+      "photoID": "52.jpg",
       "category": {
         "playerType": "bronze",
         "batHand": "right",
-        "bolHand": "left",
-        "bolType": "fast",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DAMANI RAMYA B",
+      "department": "EC",
+      "collegeID": "17EC450",
+      "year": "3rd Year",
+      "_id": "53",
+      "photoID": "53.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM ",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "NIHAR A DESAI",
+      "department": "IT",
+      "collegeID": "17IT431",
+      "year": "3rd Year",
+      "_id": "54",
+      "photoID": "54.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "SOLANKI VRUSHANK P",
+      "department": "CIVIL",
+      "collegeID": "18CE306",
+      "year": "3rd Year",
+      "_id": "55",
+      "photoID": "55.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF/LEG SPIN",
         "wk": false,
         "allRounder": true
       }
     },
     {
-      "_id": "5c17a8f4f004e8001636469c",
-      "name": "Chintan chaudhari",
-      "collegeID": "bvm",
-      "department": "mech",
-      "year": "4",
-      "phone": "9924780873",
-      "photoID": "Chintan 20181217_191617.jpg",
+      "name": "PINARA ANKIT M ",
+      "department": "CIVIL",
+      "collegeID": "18CE301",
+      "year": "3rd Year",
+      "_id": "56",
+      "photoID": "56.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PAMNANI BRIJ L",
+      "department": "EC",
+      "collegeID": "19EC435",
+      "year": "1st Year",
+      "_id": "57",
+      "photoID": "57.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "HATHILA ARPITKUMAR",
+      "department": "PROD",
+      "collegeID": "18PE004",
+      "year": "2nd Year",
+      "_id": "58",
+      "photoID": "58.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "MANSURA SEET",
+      "department": "IT",
+      "collegeID": "17IT441",
+      "year": "3rd Year",
+      "_id": "59",
+      "photoID": "59.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHIYANIA MAYANK",
+      "department": "PROD",
+      "collegeID": "18PE002",
+      "year": "2nd Year",
+      "_id": "60",
+      "photoID": "60.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "YASINKHAN PATHAN",
+      "department": "EE",
+      "collegeID": "17EL064",
+      "year": "3rd Year",
+      "_id": "61",
+      "photoID": "61.jpg",
       "category": {
         "playerType": "silver",
         "batHand": "right",
-        "bolHand": "none",
-        "bolType": "none",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SUDEEP MORE",
+      "department": "IT",
+      "collegeID": "19IT603",
+      "year": "2nd Year",
+      "_id": "62",
+      "photoID": "62.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARIN HINGRAJIYA",
+      "department": "CIVIL",
+      "collegeID": "17CE310",
+      "year": "4th Year",
+      "_id": "63",
+      "photoID": "63.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RATHOD MARGIL",
+      "department": "CIVIL",
+      "collegeID": "16CE047",
+      "year": "4th Year",
+      "_id": "64",
+      "photoID": "64.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "KALKANI PRINCE",
+      "department": "IT",
+      "collegeID": "19IT426",
+      "year": "1st Year",
+      "_id": "65",
+      "photoID": "65.jpg",
+      "category": {
+        "playerType": "silver",
+        "bolHand": "MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KEIVALYA PANDYA",
+      "department": "ME",
+      "collegeID": "19ME439",
+      "year": "1st Year",
+      "_id": "66",
+      "photoID": "66.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VIREN JARIWALA",
+      "department": "ME",
+      "collegeID": "18ME062",
+      "year": "2nd Year",
+      "_id": "67",
+      "photoID": "67.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "LEFT/LEG SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "AKSHIT PIPALIYA",
+      "department": "ME",
+      "collegeID": "18ME057",
+      "year": "2nd Year",
+      "_id": "68",
+      "photoID": "68.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KRISH MODY",
+      "department": "ME",
+      "collegeID": "19ME042",
+      "year": "1st Year",
+      "_id": "69",
+      "photoID": "69.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "ARKA GHOSH",
+      "department": "EC",
+      "collegeID": "18EC909",
+      "year": "2nd Year",
+      "_id": "70",
+      "photoID": "70.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CHAUDHARY AMITKUMAR",
+      "department": "CIVIL",
+      "collegeID": "18CE120",
+      "year": "2nd Year",
+      "_id": "71",
+      "photoID": "71.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CHAUDHARY MAYANKKUMAR",
+      "department": "CIVIL",
+      "collegeID": "18CE106",
+      "year": "2nd Year",
+      "_id": "72",
+      "photoID": "72.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GOHIL GAURAVKUMAR",
+      "department": "EL",
+      "collegeID": "17EE044",
+      "year": "3rd Year",
+      "_id": "73",
+      "photoID": "73.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARIKH DHAIRYA",
+      "department": "EC",
+      "collegeID": "19EC427",
+      "year": "1st Year",
+      "_id": "74",
+      "photoID": "74.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
         "wk": false,
         "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL NIRAL",
+      "department": "EC",
+      "collegeID": "19EC423",
+      "year": "1st Year",
+      "_id": "75",
+      "photoID": "75.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PARMAR SHAIL",
+      "department": "EC",
+      "collegeID": "19EC424",
+      "year": "1st Year",
+      "_id": "76",
+      "photoID": "76.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST/LEG SPIN",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PANCHAL DARSHAN",
+      "department": "EL",
+      "collegeID": "17EE005",
+      "year": "3rd Year",
+      "_id": "77",
+      "photoID": "77.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "LIMBAD DARSHIL",
+      "department": "EL",
+      "collegeID": "18EL007",
+      "year": "2nd Year",
+      "_id": "78",
+      "photoID": "78.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "LEFT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHANTANU SINGH",
+      "department": "EC",
+      "collegeID": "19EC453",
+      "year": "1st Year",
+      "_id": "79",
+      "photoID": "79.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "ACHEGAVE VAIBHAV",
+      "department": "EL",
+      "collegeID": "18EE202",
+      "year": "2nd Year",
+      "_id": "80",
+      "photoID": "80.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "DESHANI NISHIT",
+      "department": "PROD",
+      "collegeID": "19PE008",
+      "year": "1st Year",
+      "_id": "81",
+      "photoID": "81.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GALIYA TUSHAR",
+      "department": "IT",
+      "collegeID": "18IT607",
+      "year": "2nd Year",
+      "_id": "82",
+      "photoID": "82.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PARTH",
+      "department": "CIVIL",
+      "year": "M.TECH 1",
+      "_id": "83",
+      "photoID": "83.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "MUNSHI MUSTUFA",
+      "department": "EL",
+      "collegeID": "18EE038",
+      "year": "2nd Year",
+      "_id": "84",
+      "photoID": "84.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATEL KETUL",
+      "department": "CP",
+      "collegeID": "18CP060",
+      "year": "2nd Year",
+      "_id": "85",
+      "photoID": "85.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VAGHELA KRUSHNPALSINH",
+      "department": "ME",
+      "collegeID": "19ME082",
+      "year": "1st Year",
+      "_id": "86",
+      "photoID": "86.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RANK JAIMISH",
+      "department": "ME",
+      "collegeID": "18MD801",
+      "year": "M.TECH 2",
+      "_id": "87",
+      "photoID": "87.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GOHEL NIGAM",
+      "department": "EL",
+      "collegeID": "16EE002",
+      "year": "4th Year",
+      "_id": "88",
+      "photoID": "88.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "left",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "ROHIT SINGH",
+      "department": "CP",
+      "collegeID": "19CP204",
+      "year": "1st Year",
+      "_id": "89",
+      "photoID": "89.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RAMEEZ RAJA",
+      "department": "CP",
+      "collegeID": "19CP202",
+      "year": "1st Year",
+      "_id": "90",
+      "photoID": "90.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "KHUNT PURVIT",
+      "department": "ME",
+      "collegeID": "17ME004",
+      "year": "3rd Year",
+      "_id": "91",
+      "photoID": "91.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL JASH",
+      "department": "CP",
+      "collegeID": "17CP064",
+      "year": "3rd Year",
+      "_id": "92",
+      "photoID": "92.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/LEG SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "LAKHNOTRA RANING",
+      "department": "EC",
+      "collegeID": "19EC411",
+      "year": "1st Year",
+      "_id": "93",
+      "photoID": "93.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATEL HARDIKKUMAR",
+      "department": "CIVIL",
+      "collegeID": "18CE013",
+      "year": "2nd Year",
+      "_id": "94",
+      "photoID": "94.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATHAK DHRUV",
+      "department": "ME",
+      "collegeID": "18ME605",
+      "year": "3rd Year",
+      "_id": "95",
+      "photoID": "95.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "left",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PRAVIN SINGH",
+      "department": "ME",
+      "collegeID": "18ME083",
+      "year": "2nd Year",
+      "_id": "96",
+      "photoID": "96.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KOTHIYA RUMIT",
+      "department": "ME",
+      "collegeID": "18ME084",
+      "year": "2nd Year",
+      "_id": "97",
+      "photoID": "97.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KATARIYA MAHESH",
+      "department": "ME",
+      "collegeID": "18ME089",
+      "year": "2nd Year",
+      "_id": "98",
+      "photoID": "98.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VADI RAJ",
+      "department": "CIVIL",
+      "collegeID": "18CE124",
+      "year": "2nd Year",
+      "_id": "99",
+      "photoID": "99.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RAMOLIYA YASH",
+      "department": "CIVIL",
+      "collegeID": "18CE114",
+      "year": "2nd Year",
+      "_id": "100",
+      "photoID": "100.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "BRAHMBHATT APURVA",
+      "department": "ME",
+      "collegeID": "17ME004",
+      "year": "3rd Year",
+      "_id": "101",
+      "photoID": "101.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "LEFT/MID/LEF/OFF",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CHAD RAHUL",
+      "department": "CIVIL",
+      "collegeID": "17CE311",
+      "year": "4th Year",
+      "_id": "102",
+      "photoID": "102.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CHANGLANI NARAYAN",
+      "department": "ME",
+      "collegeID": "17ME318",
+      "year": "4th Year",
+      "_id": "103",
+      "photoID": "103.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RATHOD HARSH",
+      "department": "ME",
+      "collegeID": "19ME104",
+      "year": "1st Year",
+      "_id": "104",
+      "photoID": "104.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "RANA NITTIN",
+      "department": "ME",
+      "collegeID": "18ME202",
+      "year": "2nd Year",
+      "_id": "105",
+      "photoID": "105.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DOGRA VINEET",
+      "department": "CIVIL",
+      "collegeID": "16CE207",
+      "year": "4th Year",
+      "_id": "106",
+      "photoID": "106.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GOEL VAIBHAV",
+      "department": "EC",
+      "collegeID": "17EC406",
+      "year": "3rd Year",
+      "_id": "107",
+      "photoID": "107.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SOLANKI VIVEK",
+      "department": "EL",
+      "collegeID": "17EL030",
+      "year": "3rd Year",
+      "_id": "108",
+      "photoID": "108.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST/MID",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VIRANI MALAY",
+      "department": "ME",
+      "collegeID": "17ME044",
+      "year": "3rd Year",
+      "_id": "109",
+      "photoID": "109.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "VALA ARJUN",
+      "department": "ME",
+      "collegeID": "17ME052",
+      "year": "3rd Year",
+      "_id": "110",
+      "photoID": "110.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "KATHIYA DHRUVRAJSINH",
+      "department": "ME",
+      "collegeID": "17ME061",
+      "year": "3rd Year",
+      "_id": "111",
+      "photoID": "111.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SARVAIYA KHUSHAL",
+      "department": "EE",
+      "collegeID": "19EL060",
+      "year": "1st Year",
+      "_id": "112",
+      "photoID": "112.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SOLANKI JIGAR",
+      "department": "PROD",
+      "collegeID": "19PE007",
+      "year": "1st Year",
+      "_id": "113",
+      "photoID": "113.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RABADIYA KRUNAL",
+      "department": "ME",
+      "collegeID": "18ME404",
+      "year": "2nd Year",
+      "_id": "114",
+      "photoID": "114.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "TILVA RAJAN",
+      "department": "CIVIL",
+      "collegeID": "16CE075",
+      "year": "4th Year",
+      "_id": "115",
+      "photoID": "115.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "MAYANI DHRUVIL",
+      "department": "CIVIL",
+      "collegeID": "16CE062",
+      "year": "4th Year",
+      "_id": "116",
+      "photoID": "116.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RAJAK DIPAK",
+      "department": "CIVIL",
+      "collegeID": "17CE002",
+      "year": "3rd Year",
+      "_id": "117",
+      "photoID": "117.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "UTSAV SHEKHDA",
+      "department": "PROD",
+      "collegeID": "17PE411",
+      "year": "3rd Year",
+      "_id": "118",
+      "photoID": "118.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "NIKHIL PARAMAR",
+      "department": "PROD",
+      "collegeID": "16PE019",
+      "year": "3rd Year",
+      "_id": "119",
+      "photoID": "119.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "VERMA JOHNU",
+      "department": "ME",
+      "collegeID": "17ME201",
+      "year": "3rd Year",
+      "_id": "120",
+      "photoID": "120.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "HADIYA DIPAK",
+      "department": "CIVIL",
+      "collegeID": "17CE062",
+      "year": "3rd Year",
+      "_id": "121",
+      "photoID": "121.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SAKHIYA DEEP",
+      "department": "EC",
+      "collegeID": "17EC405",
+      "year": "3rd Year",
+      "_id": "122",
+      "photoID": "122.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "LEFT/OFF SPIN",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DASOTIYA VINAY",
+      "department": "CIVIL",
+      "collegeID": "19CE013",
+      "year": "1st Year",
+      "_id": "123",
+      "photoID": "123.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SINGH SANJAY",
+      "department": "CIVIL",
+      "collegeID": "18CE323",
+      "year": "3rd Year",
+      "_id": "124",
+      "photoID": "124.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VASAVA KAUSHIK",
+      "department": "CIVIL",
+      "collegeID": "18CE001",
+      "year": "2nd Year",
+      "_id": "125",
+      "photoID": "125.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "LEFT/OFF SPIN/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GADARA RAJESH",
+      "department": "CIVIL",
+      "collegeID": "18CE014",
+      "year": "2nd Year",
+      "_id": "126",
+      "photoID": "126.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PRAJAPATI BRIJESH",
+      "department": "CIVIL",
+      "collegeID": "19CE315",
+      "year": "2nd Year",
+      "_id": "127",
+      "photoID": "127.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "KAPDI JAYDEEP",
+      "department": "CIVIL",
+      "collegeID": "19CE311",
+      "year": "2nd Year",
+      "_id": "128",
+      "photoID": "128.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RATHOD DHRUVANY",
+      "department": "ME",
+      "collegeID": "18ME403",
+      "year": "2nd Year",
+      "_id": "129",
+      "photoID": "129.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "RIGHT/LEG SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "HALA ASHYAM",
+      "department": "ME",
+      "collegeID": "18ME412",
+      "year": "2nd Year",
+      "_id": "130",
+      "photoID": "130.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATEL MAAN",
+      "department": "ME",
+      "collegeID": "18ME409",
+      "year": "2nd Year",
+      "_id": "131",
+      "photoID": "131.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "USADADIYA KISHAN",
+      "department": "ME",
+      "collegeID": "19ME031",
+      "year": "1st Year",
+      "_id": "132",
+      "photoID": "132.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DODIYA RAJDEEPSINH",
+      "department": "ME",
+      "collegeID": "16ME034",
+      "year": "4th Year",
+      "_id": "133",
+      "photoID": "133.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "SARVAIYA SHYAM",
+      "department": "EE",
+      "collegeID": "19EL090",
+      "year": "1st Year",
+      "_id": "134",
+      "photoID": "134.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATEL VINIT",
+      "department": "IT",
+      "collegeID": "18IT462",
+      "year": "2nd Year",
+      "_id": "135",
+      "photoID": "135.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL KEYUR",
+      "department": "IT",
+      "collegeID": "18IT464",
+      "year": "3rd Year",
+      "_id": "136",
+      "photoID": "136.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL KEVIN",
+      "department": "ME",
+      "collegeID": "19ME429",
+      "year": "1st Year",
+      "_id": "137",
+      "photoID": "137.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RAWAL SHIVAM",
+      "department": "EL",
+      "collegeID": "19EE016",
+      "year": "1st Year",
+      "_id": "138",
+      "photoID": "138.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "BHARATI HIT",
+      "department": "IT",
+      "collegeID": "18IT457",
+      "year": "2nd Year",
+      "_id": "139",
+      "photoID": "139.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CHAUDHARI MAYANK",
+      "department": "CIVIL",
+      "collegeID": "16CE111",
+      "year": "4th Year",
+      "_id": "140",
+      "photoID": "140.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "VALVI AMIT",
+      "department": "CIVIL",
+      "collegeID": "16CE203",
+      "year": "4th Year",
+      "_id": "141",
+      "photoID": "141.jpg",
+      "category": {
+        "playerType": "gold",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SOLANKI DIVYESH",
+      "department": "STRUCTURAL",
+      "collegeID": "18SE805",
+      "year": "M.TECH 2",
+      "_id": "142",
+      "photoID": "142.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHAH KRUTARTH ",
+      "department": "ME",
+      "collegeID": "17ME089",
+      "year": "2nd Year",
+      "_id": "143",
+      "photoID": "143.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHETH DHYAN",
+      "department": "CIVIL",
+      "collegeID": "18CE003",
+      "year": "2nd Year",
+      "_id": "144",
+      "photoID": "144.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATEL HARSHIL",
+      "department": "PROD",
+      "collegeID": "18PE001",
+      "year": "2nd Year",
+      "_id": "145",
+      "photoID": "145.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "KERASIYA MEET",
+      "department": "CP",
+      "collegeID": "19CP031",
+      "year": "1st Year",
+      "_id": "146",
+      "photoID": "146.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "TOGADIYA KRUNAL",
+      "department": "CIVIL",
+      "collegeID": "19CE042",
+      "year": "1st Year",
+      "_id": "147",
+      "photoID": "147.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RATHOD RAJVIR",
+      "department": "EC",
+      "collegeID": "18EC410",
+      "year": "2nd Year",
+      "_id": "148",
+      "photoID": "148.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL VIRAJ",
+      "department": "CIVIL",
+      "collegeID": "19CE318",
+      "year": "2nd Year",
+      "_id": "149",
+      "photoID": "149.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PATEL DEEP",
+      "department": "CIVIL",
+      "collegeID": "18CE122",
+      "year": "2nd Year",
+      "_id": "150",
+      "photoID": "150.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHARMA AKSHAY",
+      "department": "ME",
+      "collegeID": "18ME201",
+      "year": "2nd Year",
+      "_id": "151",
+      "photoID": "151.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VIRPARIYA VASU",
+      "department": "EE",
+      "collegeID": "17EL053",
+      "year": "3rd Year",
+      "_id": "152",
+      "photoID": "152.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "BHAGIYA SMIT ",
+      "department": "CIVIL",
+      "collegeID": "17CE128",
+      "year": "3rd Year",
+      "_id": "153",
+      "photoID": "153.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DESAI PARAM",
+      "department": "ME",
+      "collegeID": "17ME417",
+      "year": "3rd Year",
+      "_id": "154",
+      "photoID": "154.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "JAY DESAI",
+      "department": "ME",
+      "collegeID": "17ME414",
+      "year": "3rd Year",
+      "_id": "155",
+      "photoID": "155.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL PAWAN",
+      "department": "ME",
+      "collegeID": "18ME405",
+      "year": "2nd Year",
+      "_id": "156",
+      "photoID": "156.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VASANI RUTVIK",
+      "department": "EC",
+      "collegeID": "18EC438",
+      "year": "2nd Year",
+      "_id": "157",
+      "photoID": "157.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PANCHAL PARTH",
+      "department": "ME",
+      "collegeID": "18ME410",
+      "year": "2nd Year",
+      "_id": "158",
+      "photoID": "158.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "BARASARA NITIN",
+      "department": "ME",
+      "collegeID": "19ME434",
+      "year": "1st Year",
+      "_id": "159",
+      "photoID": "159.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "TUTOO MUNISH",
+      "department": "IT",
+      "collegeID": "17IT751",
+      "year": "3rd Year",
+      "_id": "160",
+      "photoID": "160.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARMAR AKSHAY",
+      "department": "ME",
+      "collegeID": "19ME083",
+      "year": "1st Year",
+      "_id": "161",
+      "photoID": "161.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "DHAMELIYA MIHIL",
+      "department": "CIVIL",
+      "collegeID": "17CE051",
+      "year": "3rd Year",
+      "_id": "162",
+      "photoID": "162.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "HAPANI HEMAN",
+      "department": "PROD",
+      "collegeID": "17PE422",
+      "year": "3rd Year",
+      "_id": "163",
+      "photoID": "163.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KATHIRIYA JEELKUMAR",
+      "department": "CIVIL",
+      "collegeID": "17CE033",
+      "year": "3rd Year",
+      "_id": "164",
+      "photoID": "164.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "THORIYA RAJ",
+      "department": "CIVIL",
+      "collegeID": "17CE038",
+      "year": "3rd Year",
+      "_id": "165",
+      "photoID": "165.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "TALAVIYA TEJENDRA",
+      "department": "PROD",
+      "collegeID": "17PE405",
+      "year": "3rd Year",
+      "_id": "166",
+      "photoID": "166.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PANCHAL VRAJ",
+      "department": "CIVIL",
+      "collegeID": "17CE116",
+      "year": "3rd Year",
+      "_id": "167",
+      "photoID": "167.jpg",
+      "category": {
+        "playerType": "slver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "HADIYA RAHUL",
+      "department": "CIVIL",
+      "collegeID": "17CE081",
+      "year": "3rd Year",
+      "_id": "168",
+      "photoID": "168.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "KANJARIYA KARSHAN",
+      "department": "CIVIL",
+      "collegeID": "18CE011",
+      "year": "2nd Year",
+      "_id": "169",
+      "photoID": "169.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PATEL KISHAN",
+      "department": "CIVIL",
+      "collegeID": "19CE038",
+      "year": "1st Year",
+      "_id": "170",
+      "photoID": "170.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GADHIYA KIRTAN",
+      "department": "CP",
+      "collegeID": "18CP065",
+      "year": "2nd Year",
+      "_id": "171",
+      "photoID": "171.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "SORATHIYA BHAUTIK",
+      "department": "CP",
+      "collegeID": "18CP033",
+      "year": "2nd Year",
+      "_id": "172",
+      "photoID": "172.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GOSWAMI RONAK",
+      "department": "CIVIL",
+      "collegeID": "18CE316",
+      "year": "3rd Year",
+      "_id": "173",
+      "photoID": "173.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "MUSUM PATEL",
+      "department": "CIVIL",
+      "collegeID": "16CE079",
+      "year": "4th Year",
+      "_id": "174",
+      "photoID": "174.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "ABHISHEK DHANDHA",
+      "department": "CIVIL",
+      "collegeID": "16CE033",
+      "year": "4th Year",
+      "_id": "175",
+      "photoID": "175.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "ABHINAV MAKHE",
+      "department": "EE",
+      "collegeID": "19EE059",
+      "year": "1st Year",
+      "_id": "176",
+      "photoID": "176.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KUNJ PATEL",
+      "department": "IT",
+      "collegeID": "16IT408",
+      "year": "4th Year",
+      "_id": "177",
+      "photoID": "177.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "left",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SAURABH PANDEY",
+      "department": "PE",
+      "collegeID": "17PE007",
+      "year": "3rd Year",
+      "_id": "178",
+      "photoID": "178.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "BHADANI BHUMIT",
+      "department": "IT",
+      "collegeID": "17IT412",
+      "year": "3rd Year",
+      "_id": "179",
+      "photoID": "179.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "HARDIK DHOLAKIYA",
+      "department": "PE",
+      "collegeID": "16PE015",
+      "year": "4th Year",
+      "_id": "180",
+      "photoID": "180.jpg",
+      "category": {
+        "playerType": "giold",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "TANDEL SATYAM",
+      "department": "ME",
+      "collegeID": "17ME205",
+      "year": "3rd Year",
+      "_id": "181",
+      "photoID": "181.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KHANJAN MARTHAK",
+      "department": "EC",
+      "collegeID": "18EC405",
+      "year": "2nd Year",
+      "_id": "182",
+      "photoID": "182.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "GAUTAM VAGHELA",
+      "department": "EE",
+      "collegeID": "19EL012",
+      "year": "1st Year",
+      "_id": "183",
+      "photoID": "183.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "LAD SMIT",
+      "department": "ME",
+      "collegeID": "19ME435",
+      "year": "1st Year",
+      "_id": "184",
+      "photoID": "184.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "RIGHT/LEFT",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "VASAVA VAIDIK",
+      "department": "ME",
+      "collegeID": "19ME035",
+      "year": "1st Year",
+      "_id": "185",
+      "photoID": "185.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KACHIA NILAY",
+      "department": "EE",
+      "collegeID": "19EL057",
+      "year": "1st Year",
+      "_id": "186",
+      "photoID": "186.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DIVYAPAL BARIA",
+      "department": "EE",
+      "collegeID": "19EL051",
+      "year": "1st Year",
+      "_id": "187",
+      "photoID": "187.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PANCHARI PARTH",
+      "department": "ME",
+      "collegeID": "19ME008",
+      "year": "1st Year",
+      "_id": "188",
+      "photoID": "188.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KADAVALA NAYAN",
+      "department": "EL",
+      "collegeID": "17EE049",
+      "year": "3rd Year",
+      "_id": "189",
+      "photoID": "189.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "BARIYA PARTHIV",
+      "department": "CIVIL",
+      "collegeID": "19CE100",
+      "year": "1st Year",
+      "_id": "190",
+      "photoID": "190.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "BHADANI RUTVIK",
+      "department": "CP",
+      "collegeID": "18CP035",
+      "year": "2nd Year",
+      "_id": "191",
+      "photoID": "191.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RISHIT THAKKAR",
+      "department": "EC",
+      "collegeID": "19EC413",
+      "year": "1st Year",
+      "_id": "192",
+      "photoID": "192.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/LEG SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARMAR AMITSINH",
+      "department": "CIVIL",
+      "collegeID": "18CE100",
+      "year": "2nd Year",
+      "_id": "193",
+      "photoID": "193.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "CHAUHAN DARSHAN",
+      "department": "CIVIL",
+      "collegeID": "18CE101",
+      "year": "2nd Year",
+      "_id": "194",
+      "photoID": "194.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "HARSH MODI",
+      "department": "EE",
+      "collegeID": "19EL023",
+      "year": "1st Year",
+      "_id": "195",
+      "photoID": "195.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SHYAM THAKOR",
+      "department": "CP",
+      "collegeID": "19CP036",
+      "year": "1st Year",
+      "_id": "196",
+      "photoID": "196.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "RANVEER PARMAR",
+      "department": "EL",
+      "collegeID": "19EE031",
+      "year": "1st Year",
+      "_id": "197",
+      "photoID": "197.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "YASH MEVADA",
+      "department": "CP",
+      "collegeID": "19CP039",
+      "year": "1st Year",
+      "_id": "198",
+      "photoID": "198.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "BHAVESH JHA",
+      "department": "EC",
+      "collegeID": "19EC448",
+      "year": "1st Year",
+      "_id": "199",
+      "photoID": "199.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "UTKARSH JHA",
+      "department": "EC",
+      "collegeID": "19EC451",
+      "year": "1st Year",
+      "_id": "200",
+      "photoID": "200.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "JAYESH CHAUDHARY",
+      "department": "PE",
+      "collegeID": "16PE005",
+      "year": "4th Year",
+      "_id": "201",
+      "photoID": "201.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": true,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SANKALP MANE",
+      "department": "EC",
+      "collegeID": "18EC441",
+      "year": "2nd Year",
+      "_id": "202",
+      "photoID": "202.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "YASH TIBRA",
+      "department": "EE",
+      "collegeID": "19EL005",
+      "year": "1st Year",
+      "_id": "203",
+      "photoID": "203.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "SUKHADIYA MITUL",
+      "department": "ME",
+      "collegeID": "16ME418",
+      "year": "4th Year",
+      "_id": "204",
+      "photoID": "204.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "MULANI MILAN",
+      "department": "ME",
+      "collegeID": "16ME072",
+      "year": "4th Year",
+      "_id": "205",
+      "photoID": "205.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PAREKH JAY",
+      "department": "PE",
+      "collegeID": "18PE308",
+      "year": "3rd Year",
+      "_id": "206",
+      "photoID": "206.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "RUSHI JOSHI",
+      "department": "PE",
+      "collegeID": "18PE307",
+      "year": "3rd Year",
+      "_id": "207",
+      "photoID": "207.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "DAKSH PATEL",
+      "department": "CP",
+      "collegeID": "19CP081",
+      "year": "1st Year",
+      "_id": "208",
+      "photoID": "208.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "VEDANT GADHAVI",
+      "department": "CIVIL",
+      "collegeID": "19CE137",
+      "year": "2nd Year",
+      "_id": "209",
+      "photoID": "209.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "ANIL SAMYAL",
+      "department": "CIVIL",
+      "collegeID": "19CE201",
+      "year": "1st Year",
+      "_id": "210",
+      "photoID": "210.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "bolHand": "LEFT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "JENISH PATEL",
+      "department": "CIVIL",
+      "collegeID": "19CE118",
+      "year": "1st Year",
+      "_id": "211",
+      "photoID": "211.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/MID",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "PARTH VAGHASIYA",
+      "department": "PE",
+      "collegeID": "19PE020",
+      "year": "1st Year",
+      "_id": "212",
+      "photoID": "212.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "JARIWALA JAY",
+      "department": "CIVIL",
+      "collegeID": "19CE117",
+      "year": "1st Year",
+      "_id": "213",
+      "photoID": "213.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "DAMANIA RONAK",
+      "department": "ME",
+      "collegeID": "17ME204",
+      "year": "3rd Year",
+      "_id": "214",
+      "photoID": "214.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "KARNAVAT SACHINBHAI",
+      "department": "CIVIL",
+      "collegeID": "19CE150",
+      "year": "1st Year",
+      "_id": "215",
+      "photoID": "215.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "RIGHT/FAST/OFF SPIN",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "UTSAV SHAH",
+      "department": "CIVIL",
+      "collegeID": "19CE151",
+      "year": "1st Year",
+      "_id": "216",
+      "photoID": "216.jpg",
+      "category": {
+        "playerType": "bronze",
+        "bolHand": "RIGHT/FAST/MID",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "MANN OATEL",
+      "department": "EL",
+      "collegeID": "19EE040",
+      "year": "1st Year",
+      "_id": "217",
+      "photoID": "217.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "bolHand": "MID",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "GANDHI SHUBHANG",
+      "department": "PE",
+      "collegeID": "19PE024",
+      "year": "1st Year",
+      "_id": "218",
+      "photoID": "218.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": true,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "RISHIT MAKWANA",
+      "department": "PE",
+      "collegeID": "19PE025",
+      "year": "1st Year",
+      "_id": "219",
+      "photoID": "219.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "right",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "AZIZ SUTERWALA",
+      "department": "EC",
+      "collegeID": "17EC439",
+      "year": "1st Year",
+      "_id": "220",
+      "photoID": "220.jpg",
+      "category": {
+        "playerType": "bronze",
+        "batHand": "left",
+        "wk": false,
+        "allRounder": false
+      }
+    },
+    {
+      "name": "PARTH GADARA",
+      "department": "CIVIL",
+      "collegeID": "16CE028",
+      "year": "4th Year",
+      "_id": "221",
+      "photoID": "221.jpg",
+      "category": {
+        "playerType": "gold",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
+      }
+    },
+    {
+      "name": "ARJUN VALA",
+      "department": "EL",
+      "collegeID": "16EE008",
+      "year": "4th Year",
+      "_id": "222",
+      "photoID": "222.jpg",
+      "category": {
+        "playerType": "silver",
+        "batHand": "right",
+        "bolHand": "RIGHT/MEDIUM",
+        "wk": false,
+        "allRounder": true
       }
     }
   ]
