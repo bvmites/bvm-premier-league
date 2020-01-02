@@ -38,44 +38,38 @@ export default new Vuex.Store({
                 players: []
             },
             {
-                name: "GS 11",
+                name: "BVM FORTUNE GIANTS",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/6.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM FORTUNE GIANTS",
+                name: "BVM Strikers",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/7.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Strikers",
+                name: "BVM Stars",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/8.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Stars",
+                name: "BVM Bulls",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/9.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Bulls",
+                name: "BVM Fighters",
                 url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/10.png",
                 balance: 10000,
                 players: []
             },
             {
-                name: "BVM Fighters",
-                url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/11.png",
-                balance: 10000,
-                players: []
-            },
-            {
                 name: "BVM Royal Strikers",
-                url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/12.png",
+                url: "https://raw.githubusercontent.com/bvmites/bvm-premier-league/master/src/assets/team/11.png",
                 balance: 10000,
                 players: []
             }
